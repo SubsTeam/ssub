@@ -1,0 +1,3892 @@
+1
+00:00:06,600 --> 00:00:09,040
+<c.traditionalchinese><c.bg_transparent>我必須繼續工作賺錢</c.bg_transparent></c.traditionalchinese>
+
+2
+00:00:09,120 --> 00:00:10,960
+<c.traditionalchinese><c.bg_transparent>不然我們就完了，克萊夫，完蛋了</c.bg_transparent></c.traditionalchinese>
+
+3
+00:00:11,040 --> 00:00:15,400
+<c.traditionalchinese><c.bg_transparent>-貝兒，貝兒吉柏森</c.bg_transparent>
+<c.bg_transparent>-她要借助我的專業</c.bg_transparent></c.traditionalchinese>
+
+4
+00:00:15,480 --> 00:00:17,720
+<c.traditionalchinese><c.bg_transparent>當然了，她是我的競爭者</c.bg_transparent></c.traditionalchinese>
+
+5
+00:00:17,800 --> 00:00:23,640
+<c.traditionalchinese><c.bg_transparent>她的應用程式裝在人們的手腕上</c.bg_transparent>
+<c.bg_transparent>像是在越南，摩洛哥和秘魯</c.bg_transparent></c.traditionalchinese>
+
+6
+00:00:23,720 --> 00:00:24,640
+<c.traditionalchinese><c.bg_transparent>但你在做什麼？</c.bg_transparent></c.traditionalchinese>
+
+7
+00:00:25,680 --> 00:00:27,280
+<c.traditionalchinese><c.bg_transparent>只是乾坐在這裡</c.bg_transparent></c.traditionalchinese>
+
+8
+00:00:27,360 --> 00:00:29,520
+<c.traditionalchinese><c.bg_transparent>我和我的事業經常做慈善募款</c.bg_transparent></c.traditionalchinese>
+
+9
+00:00:29,600 --> 00:00:33,040
+<c.traditionalchinese><c.bg_transparent>也許找時間讓男孩們約來家裡玩？</c.bg_transparent>
+<c.bg_transparent>我們可以聊聊一些可能性</c.bg_transparent></c.traditionalchinese>
+
+10
+00:00:33,120 --> 00:00:34,320
+<c.traditionalchinese><c.bg_transparent>她會害死你</c.bg_transparent></c.traditionalchinese>
+
+11
+00:00:34,400 --> 00:00:38,040
+<c.traditionalchinese><c.bg_transparent>如果你選擇這條路，你會沒命</c.bg_transparent></c.traditionalchinese>
+
+12
+00:00:38,120 --> 00:00:40,360
+<c.traditionalchinese><c.bg_transparent>你聽說過黑色藥膏嗎？</c.bg_transparent></c.traditionalchinese>
+
+13
+00:00:40,440 --> 00:00:42,080
+<c.traditionalchinese><c.bg_transparent>不要噓我！</c.bg_transparent></c.traditionalchinese>
+
+14
+00:00:42,160 --> 00:00:45,160
+<c.traditionalchinese><c.bg_transparent>他們對我下毒，你覺得沒關係嗎？</c.bg_transparent></c.traditionalchinese>
+
+15
+00:00:45,240 --> 00:00:46,720
+<c.traditionalchinese><c.bg_transparent>爸覺得我應該離開你</c.bg_transparent></c.traditionalchinese>
+
+16
+00:00:46,800 --> 00:00:48,560
+<c.traditionalchinese><c.bg_transparent>他們懷疑你是不是真的有癌症</c.bg_transparent></c.traditionalchinese>
+
+17
+00:00:49,160 --> 00:00:51,160
+<c.traditionalchinese><c.bg_transparent>克萊夫，他們為什麼會這樣懷疑？</c.bg_transparent></c.traditionalchinese>
+
+18
+00:00:51,240 --> 00:00:54,160
+<c.traditionalchinese><c.bg_transparent>你不能破壞了我們母子的關係</c.bg_transparent></c.traditionalchinese>
+
+19
+00:00:54,240 --> 00:00:56,760
+<c.traditionalchinese><c.bg_transparent>又拿你爸媽的廢話來教訓我</c.bg_transparent></c.traditionalchinese>
+
+20
+00:00:56,840 --> 00:00:59,840
+<c.traditionalchinese><c.bg_transparent>媽，媽？拜託誰來幫忙好嗎？</c.bg_transparent></c.traditionalchinese>
+
+21
+00:00:59,920 --> 00:01:00,760
+<c.traditionalchinese><c.bg_transparent>媽媽！</c.bg_transparent></c.traditionalchinese>
+
+22
+00:01:00,840 --> 00:01:02,400
+<c.traditionalchinese><c.bg_transparent>沒關係，沒事</c.bg_transparent></c.traditionalchinese>
+
+23
+00:01:02,480 --> 00:01:03,880
+<c.traditionalchinese><c.bg_transparent>-媽！</c.bg_transparent>
+<c.bg_transparent>-她只是摔了一跤</c.bg_transparent></c.traditionalchinese>
+
+24
+00:01:03,960 --> 00:01:04,840
+<c.traditionalchinese><c.bg_transparent>沒事了</c.bg_transparent></c.traditionalchinese>
+
+25
+00:01:07,160 --> 00:01:10,200
+<c.traditionalchinese><c.bg_transparent>（以下劇情來自真實故事的啟發）</c.bg_transparent></c.traditionalchinese>
+
+26
+00:01:10,280 --> 00:01:14,080
+<c.traditionalchinese><c.bg_transparent>（某些角色與事件為創作與虛構）</c.bg_transparent></c.traditionalchinese>
+
+27
+00:01:14,160 --> 00:01:17,080
+<c.traditionalchinese><c.bg_transparent>（非常心痛）</c.bg_transparent></c.traditionalchinese>
+
+28
+00:01:19,280 --> 00:01:21,760
+<c.traditionalchinese><c.bg_transparent>女人，尤其是成為母親後</c.bg_transparent></c.traditionalchinese>
+
+29
+00:01:21,840 --> 00:01:26,400
+<c.traditionalchinese><c.bg_transparent>我們必須有三頭六臂</c.bg_transparent>
+<c.bg_transparent>滿足所有人的需要</c.bg_transparent></c.traditionalchinese>
+
+30
+00:01:26,480 --> 00:01:29,720
+<c.traditionalchinese><c.bg_transparent>我幾乎是做牛做馬</c.bg_transparent></c.traditionalchinese>
+
+31
+00:01:29,800 --> 00:01:32,760
+<c.traditionalchinese><c.bg_transparent>給那個女孩想要的一切</c.bg_transparent></c.traditionalchinese>
+
+32
+00:01:32,840 --> 00:01:35,160
+<c.traditionalchinese><c.bg_transparent>如果她弄丟了她最心愛的泰迪熊</c.bg_transparent></c.traditionalchinese>
+
+33
+00:01:35,240 --> 00:01:38,320
+<c.traditionalchinese><c.bg_transparent>你們相信</c.bg_transparent>
+<c.bg_transparent>我們會大老遠跑去土文巴嗎？</c.bg_transparent></c.traditionalchinese>
+
+34
+00:01:38,400 --> 00:01:40,600
+<c.traditionalchinese><c.bg_transparent>她的父親，也就是我丈夫安迪跟我</c.bg_transparent></c.traditionalchinese>
+
+35
+00:01:40,680 --> 00:01:44,640
+<c.traditionalchinese><c.bg_transparent>我們一路開車回到土文巴</c.bg_transparent></c.traditionalchinese>
+
+36
+00:01:44,720 --> 00:01:48,880
+<c.traditionalchinese><c.bg_transparent>去同一間嬰兒用品店</c.bg_transparent>
+<c.bg_transparent>買同樣一個泰迪熊娃娃</c.bg_transparent></c.traditionalchinese>
+
+37
+00:01:49,560 --> 00:01:50,920
+<c.traditionalchinese><c.bg_transparent>我們就是這麼愛她</c.bg_transparent></c.traditionalchinese>
+
+38
+00:01:51,560 --> 00:01:53,360
+<c.traditionalchinese><c.bg_transparent>-海克！</c.bg_transparent>
+<c.bg_transparent>-那是誰？</c.bg_transparent></c.traditionalchinese>
+
+39
+00:01:54,280 --> 00:01:55,920
+<c.traditionalchinese><c.bg_transparent>一個客戶，我沒邀請她</c.bg_transparent></c.traditionalchinese>
+
+40
+00:01:56,000 --> 00:01:59,160
+<c.traditionalchinese><c.bg_transparent>你看到了嗎？</c.bg_transparent>
+<c.bg_transparent>她接受採訪，真是鬼話連篇！</c.bg_transparent></c.traditionalchinese>
+
+41
+00:01:59,680 --> 00:02:04,480
+<c.traditionalchinese><c.bg_transparent>她只是個傻女孩，老是好高騖遠</c.bg_transparent></c.traditionalchinese>
+
+42
+00:02:04,560 --> 00:02:08,440
+<c.traditionalchinese><c.bg_transparent>入不敷出，而且對電腦上癮</c.bg_transparent></c.traditionalchinese>
+
+43
+00:02:08,520 --> 00:02:12,000
+<c.traditionalchinese><c.bg_transparent>我告訴過她，那不是真實世界</c.bg_transparent></c.traditionalchinese>
+
+44
+00:02:12,920 --> 00:02:14,320
+<c.traditionalchinese><c.bg_transparent>並不健康</c.bg_transparent></c.traditionalchinese>
+
+45
+00:02:15,520 --> 00:02:18,080
+<c.traditionalchinese><c.bg_transparent>你應該要保護我的！你想整死我嗎？</c.bg_transparent></c.traditionalchinese>
+
+46
+00:02:18,160 --> 00:02:20,600
+<c.traditionalchinese><c.bg_transparent>-什麼？</c.bg_transparent>
+<c.bg_transparent>-我要打給《60分鐘》，聽到了嗎？</c.bg_transparent></c.traditionalchinese>
+
+47
+00:02:20,680 --> 00:02:23,040
+<c.traditionalchinese><c.bg_transparent>你別想拿到佣金了，別碰我！</c.bg_transparent></c.traditionalchinese>
+
+48
+00:02:23,120 --> 00:02:25,360
+<c.traditionalchinese><c.bg_transparent>-這是孩子的派對！</c.bg_transparent>
+<c.bg_transparent>-那是你的前妻嗎？</c.bg_transparent></c.traditionalchinese>
+
+49
+00:02:25,440 --> 00:02:28,440
+<c.traditionalchinese><c.bg_transparent>我相信你應該知道</c.bg_transparent>
+<c.bg_transparent>他需要就醫解決藥物濫用問題</c.bg_transparent></c.traditionalchinese>
+
+50
+00:02:28,520 --> 00:02:30,360
+<c.traditionalchinese><c.bg_transparent>-回家吧，貝兒</c.bg_transparent>
+<c.bg_transparent>-你才滾回家</c.bg_transparent></c.traditionalchinese>
+
+51
+00:02:31,840 --> 00:02:34,200
+<c.traditionalchinese><c.bg_transparent>希望你自己收拾好爛攤，好嗎？</c.bg_transparent></c.traditionalchinese>
+
+52
+00:02:36,200 --> 00:02:37,320
+<c.traditionalchinese><c.bg_transparent>合作到此為止！</c.bg_transparent></c.traditionalchinese>
+
+53
+00:02:39,480 --> 00:02:40,680
+<c.traditionalchinese><c.bg_transparent>沒有佣金</c.bg_transparent></c.traditionalchinese>
+
+54
+00:02:42,520 --> 00:02:43,840
+<c.traditionalchinese><c.bg_transparent>沒問題，寶貝</c.bg_transparent></c.traditionalchinese>
+
+55
+00:02:45,520 --> 00:02:46,800
+<c.traditionalchinese><c.bg_transparent>光與愛</c.bg_transparent></c.traditionalchinese>
+
+56
+00:02:47,880 --> 00:02:49,120
+<c.traditionalchinese><c.bg_transparent>送你光與愛</c.bg_transparent></c.traditionalchinese>
+
+57
+00:02:49,720 --> 00:02:54,360
+<c.traditionalchinese><c.bg_transparent>我都不知道該怎麼說</c.bg_transparent>
+<c.bg_transparent>那ㄚ頭的作為讓我們多沒面子</c.bg_transparent></c.traditionalchinese>
+
+58
+00:02:54,880 --> 00:02:58,360
+<c.traditionalchinese><c.bg_transparent>她欺騙了那麼多窮人</c.bg_transparent></c.traditionalchinese>
+
+59
+00:02:58,440 --> 00:03:01,520
+<c.traditionalchinese><c.bg_transparent>而我們在她的人生中</c.bg_transparent>
+<c.bg_transparent>只扮演無足輕重的角色</c.bg_transparent></c.traditionalchinese>
+
+60
+00:03:02,240 --> 00:03:05,960
+<c.traditionalchinese><c.bg_transparent>對此我由衷地感到抱歉</c.bg_transparent></c.traditionalchinese>
+
+61
+00:03:07,440 --> 00:03:09,800
+<c.traditionalchinese><c.bg_transparent>-怎麼樣？</c.bg_transparent>
+<c.bg_transparent>-很不錯</c.bg_transparent></c.traditionalchinese>
+
+62
+00:03:09,880 --> 00:03:11,440
+<c.traditionalchinese><c.bg_transparent>-都拍到了嗎？</c.bg_transparent>
+<c.bg_transparent>-對</c.bg_transparent></c.traditionalchinese>
+
+63
+00:03:13,760 --> 00:03:16,800
+<c.traditionalchinese><c.bg_transparent>我們接到飯店打來的電話</c.bg_transparent></c.traditionalchinese>
+
+64
+00:03:16,880 --> 00:03:19,240
+<c.traditionalchinese><c.bg_transparent>我是不是忘了拿什麼？</c.bg_transparent></c.traditionalchinese>
+
+65
+00:03:20,280 --> 00:03:25,440
+<c.traditionalchinese><c.bg_transparent>他們對小冰櫃和客房服務費有點疑問</c.bg_transparent></c.traditionalchinese>
+
+66
+00:03:25,520 --> 00:03:26,400
+<c.traditionalchinese><c.bg_transparent>這樣啊</c.bg_transparent></c.traditionalchinese>
+
+67
+00:03:29,800 --> 00:03:32,960
+<c.traditionalchinese><c.bg_transparent>是你說可以點晚餐和早餐的</c.bg_transparent></c.traditionalchinese>
+
+68
+00:03:38,880 --> 00:03:41,400
+<c.traditionalchinese><c.bg_transparent>-那是我們提供的衣褲套裝嗎？</c.bg_transparent>
+<c.bg_transparent>-對</c.bg_transparent></c.traditionalchinese>
+
+69
+00:03:43,280 --> 00:03:45,000
+<c.traditionalchinese><c.bg_transparent>她會掛回架上嗎？</c.bg_transparent></c.traditionalchinese>
+
+70
+00:03:46,680 --> 00:03:48,320
+<c.traditionalchinese><c.bg_transparent>沒有，好吧</c.bg_transparent></c.traditionalchinese>
+
+71
+00:03:48,920 --> 00:03:52,920
+<c.traditionalchinese><c.bg_transparent>這不是真實故事</c.bg_transparent>
+<c.bg_transparent>請詳閱完全免責聲明</c.bg_transparent></c.traditionalchinese>
+
+72
+00:03:53,000 --> 00:03:56,800
+<c.traditionalchinese><c.bg_transparent>貝兒吉柏森沒有因此收到半分酬勞</c.bg_transparent></c.traditionalchinese>
+
+73
+00:03:57,880 --> 00:03:59,880
+<c.traditionalchinese><c.bg_transparent>我也沒有</c.bg_transparent></c.traditionalchinese>
+
+74
+00:03:59,960 --> 00:04:01,560
+<c.traditionalchinese><c.bg_transparent>不是錢的問題</c.bg_transparent></c.traditionalchinese>
+
+75
+00:04:02,200 --> 00:04:04,560
+<c.traditionalchinese><c.bg_transparent>有很多雜誌社的人</c.bg_transparent></c.traditionalchinese>
+
+76
+00:04:04,640 --> 00:04:08,000
+<c.traditionalchinese><c.bg_transparent>開出兩千美元的價碼，兩千美元</c.bg_transparent></c.traditionalchinese>
+
+77
+00:04:08,080 --> 00:04:13,560
+<c.traditionalchinese><c.bg_transparent>我說：“你們可是</c.bg_transparent>
+<c.bg_transparent>市值數十億美元的公司”</c.bg_transparent></c.traditionalchinese>
+
+78
+00:04:14,280 --> 00:04:18,880
+<c.traditionalchinese><c.bg_transparent>無論多少代價</c.bg_transparent>
+<c.bg_transparent>我都不會出賣我女兒，謝謝</c.bg_transparent></c.traditionalchinese>
+
+79
+00:04:18,960 --> 00:04:20,440
+<c.traditionalchinese><c.bg_transparent>這就是母愛</c.bg_transparent></c.traditionalchinese>
+
+80
+00:04:21,080 --> 00:04:23,040
+<c.traditionalchinese><c.bg_transparent>惹人厭，也令人讚佩</c.bg_transparent></c.traditionalchinese>
+
+81
+00:04:23,600 --> 00:04:26,120
+<c.traditionalchinese><c.bg_transparent>吃力不討好，成就感滿滿</c.bg_transparent></c.traditionalchinese>
+
+82
+00:04:27,200 --> 00:04:28,240
+<c.traditionalchinese><c.bg_transparent>說到底…</c.bg_transparent></c.traditionalchinese>
+
+83
+00:04:30,320 --> 00:04:31,880
+<c.traditionalchinese><c.bg_transparent>我愛我的女兒</c.bg_transparent></c.traditionalchinese>
+
+84
+00:04:32,800 --> 00:04:34,080
+<c.traditionalchinese><c.bg_transparent>就這麼簡單</c.bg_transparent></c.traditionalchinese>
+
+85
+00:04:34,160 --> 00:04:36,520
+<c.traditionalchinese><c.bg_transparent>《神效蘋果醋》</c.bg_transparent></c.traditionalchinese>
+
+86
+00:04:37,120 --> 00:04:40,560
+<c.traditionalchinese><c.bg_transparent>（如果你捏造謊言或健康問題</c.bg_transparent>
+<c.bg_transparent>來勾起外界的興趣）</c.bg_transparent></c.traditionalchinese>
+
+87
+00:04:40,640 --> 00:04:43,320
+<c.traditionalchinese><c.bg_transparent>（代表你有嚴重的人格缺陷）</c.bg_transparent></c.traditionalchinese>
+
+88
+00:04:43,400 --> 00:04:45,400
+<c.traditionalchinese><c.bg_transparent>（貝兒吉柏森</c.bg_transparent>
+<c.bg_transparent>臉書貼文，2014年）</c.bg_transparent></c.traditionalchinese>
+
+89
+00:04:48,240 --> 00:04:53,800
+<c.traditionalchinese><c.bg_transparent>看起來很真實，整整持續了40分鐘</c.bg_transparent></c.traditionalchinese>
+
+90
+00:05:04,520 --> 00:05:06,440
+<c.traditionalchinese><c.bg_transparent>我一直在想克萊夫</c.bg_transparent></c.traditionalchinese>
+
+91
+00:05:07,480 --> 00:05:09,120
+<c.traditionalchinese><c.bg_transparent>他能從中得到什麼好處？</c.bg_transparent></c.traditionalchinese>
+
+92
+00:05:09,880 --> 00:05:12,200
+<c.traditionalchinese><c.bg_transparent>錢，一袋又一袋的錢</c.bg_transparent></c.traditionalchinese>
+
+93
+00:05:13,040 --> 00:05:14,240
+<c.traditionalchinese><c.bg_transparent>你覺得是這樣嗎？</c.bg_transparent></c.traditionalchinese>
+
+94
+00:05:14,720 --> 00:05:16,840
+<c.traditionalchinese><c.bg_transparent>有點難摸透他的心思</c.bg_transparent></c.traditionalchinese>
+
+95
+00:05:18,080 --> 00:05:20,400
+<c.traditionalchinese><c.bg_transparent>軟柿子？斯德哥爾摩症候群？</c.bg_transparent></c.traditionalchinese>
+
+96
+00:05:21,040 --> 00:05:23,920
+<c.traditionalchinese><c.bg_transparent>-他並不是清白無辜</c.bg_transparent>
+<c.bg_transparent>-你覺得他會跟我談嗎？</c.bg_transparent></c.traditionalchinese>
+
+97
+00:05:24,680 --> 00:05:26,800
+<c.traditionalchinese><c.bg_transparent>就算私下受訪，可能就足夠了</c.bg_transparent></c.traditionalchinese>
+
+98
+00:05:27,680 --> 00:05:28,560
+<c.traditionalchinese><c.bg_transparent>我看不會</c.bg_transparent></c.traditionalchinese>
+
+99
+00:05:29,160 --> 00:05:30,920
+<c.traditionalchinese><c.bg_transparent>我是說，他有點…我說不上來</c.bg_transparent></c.traditionalchinese>
+
+100
+00:05:31,000 --> 00:05:32,960
+<c.traditionalchinese><c.bg_transparent>雖然你可以感覺到…</c.bg_transparent></c.traditionalchinese>
+
+101
+00:05:33,040 --> 00:05:35,520
+<c.traditionalchinese><c.bg_transparent>該死的臭婊子！</c.bg_transparent></c.traditionalchinese>
+
+102
+00:05:35,600 --> 00:05:37,400
+<c.traditionalchinese><c.bg_transparent>臭女人！狗娘養的！</c.bg_transparent></c.traditionalchinese>
+
+103
+00:05:40,400 --> 00:05:41,760
+<c.traditionalchinese><c.bg_transparent>其實很難說</c.bg_transparent></c.traditionalchinese>
+
+104
+00:05:46,360 --> 00:05:47,520
+<c.traditionalchinese><c.bg_transparent>貝兒</c.bg_transparent></c.traditionalchinese>
+
+105
+00:05:47,600 --> 00:05:48,680
+<c.traditionalchinese><c.bg_transparent>貝兒</c.bg_transparent></c.traditionalchinese>
+
+106
+00:05:50,920 --> 00:05:52,040
+<c.traditionalchinese><c.bg_transparent>起來，換衣服</c.bg_transparent></c.traditionalchinese>
+
+107
+00:05:52,600 --> 00:05:54,160
+<c.traditionalchinese><c.bg_transparent>我不舒服</c.bg_transparent></c.traditionalchinese>
+
+108
+00:05:54,240 --> 00:05:58,600
+<c.traditionalchinese><c.bg_transparent>對，所以我們要去醫院</c.bg_transparent>
+<c.bg_transparent>你要穿運動服還是牛仔褲？</c.bg_transparent></c.traditionalchinese>
+
+109
+00:06:20,360 --> 00:06:22,440
+<c.traditionalchinese><c.bg_transparent>嘿，小蜜</c.bg_transparent></c.traditionalchinese>
+
+110
+00:06:24,800 --> 00:06:27,400
+<c.traditionalchinese><c.bg_transparent>我剛剛聽說…</c.bg_transparent></c.traditionalchinese>
+
+111
+00:06:27,480 --> 00:06:29,560
+<c.traditionalchinese><c.bg_transparent>我真的不知道該說什麼…</c.bg_transparent></c.traditionalchinese>
+
+112
+00:06:30,600 --> 00:06:34,560
+<c.traditionalchinese><c.bg_transparent>我在這裡，你可以打給我</c.bg_transparent>
+<c.bg_transparent>有需要就打給我</c.bg_transparent></c.traditionalchinese>
+
+113
+00:06:35,280 --> 00:06:36,680
+<c.traditionalchinese><c.bg_transparent>請節哀順變</c.bg_transparent></c.traditionalchinese>
+
+114
+00:06:37,360 --> 00:06:38,680
+<c.traditionalchinese><c.bg_transparent>我愛你</c.bg_transparent></c.traditionalchinese>
+
+115
+00:06:41,400 --> 00:06:42,560
+<c.traditionalchinese><c.bg_transparent>香奈爾？</c.bg_transparent></c.traditionalchinese>
+
+116
+00:06:43,720 --> 00:06:45,280
+<c.traditionalchinese><c.bg_transparent>克萊夫逼我去醫院</c.bg_transparent></c.traditionalchinese>
+
+117
+00:06:45,360 --> 00:06:47,440
+<c.traditionalchinese><c.bg_transparent>我回來時你還會在嗎？</c.bg_transparent>
+<c.bg_transparent>我們可以一起過夜</c.bg_transparent></c.traditionalchinese>
+
+118
+00:06:50,080 --> 00:06:51,600
+<c.traditionalchinese><c.bg_transparent>小蜜的媽媽剛過世</c.bg_transparent></c.traditionalchinese>
+
+119
+00:07:01,080 --> 00:07:01,920
+<c.traditionalchinese><c.bg_transparent>什麼時候的事？</c.bg_transparent></c.traditionalchinese>
+
+120
+00:07:02,640 --> 00:07:04,280
+<c.traditionalchinese><c.bg_transparent>我不知道，我不…</c.bg_transparent></c.traditionalchinese>
+
+121
+00:07:05,920 --> 00:07:08,280
+<c.traditionalchinese><c.bg_transparent>他們在去墨西哥的途中，然後…</c.bg_transparent></c.traditionalchinese>
+
+122
+00:07:09,040 --> 00:07:10,360
+<c.traditionalchinese><c.bg_transparent>我不知…</c.bg_transparent></c.traditionalchinese>
+
+123
+00:07:12,680 --> 00:07:16,000
+<c.traditionalchinese><c.bg_transparent>-我真的不清楚，所以…</c.bg_transparent>
+<c.bg_transparent>-你要去看她嗎？</c.bg_transparent></c.traditionalchinese>
+
+124
+00:07:16,640 --> 00:07:19,320
+<c.traditionalchinese><c.bg_transparent>對，她以前會開車送我去學校</c.bg_transparent></c.traditionalchinese>
+
+125
+00:07:20,200 --> 00:07:23,280
+<c.traditionalchinese><c.bg_transparent>我一直在那裡生活，我在那裡長大的</c.bg_transparent></c.traditionalchinese>
+
+126
+00:07:24,520 --> 00:07:27,160
+<c.traditionalchinese><c.bg_transparent>你真的應該去一趟，別擔心</c.bg_transparent></c.traditionalchinese>
+
+127
+00:07:28,160 --> 00:07:29,720
+<c.traditionalchinese><c.bg_transparent>我們可以透過電郵做準備工作</c.bg_transparent></c.traditionalchinese>
+
+128
+00:07:34,000 --> 00:07:35,080
+<c.traditionalchinese><c.bg_transparent>可憐的蜜拉</c.bg_transparent></c.traditionalchinese>
+
+129
+00:07:36,240 --> 00:07:37,080
+<c.traditionalchinese><c.bg_transparent>對</c.bg_transparent></c.traditionalchinese>
+
+130
+00:07:38,800 --> 00:07:41,120
+<c.traditionalchinese><c.bg_transparent>真的，可憐的蜜拉</c.bg_transparent></c.traditionalchinese>
+
+131
+00:07:45,120 --> 00:07:47,840
+<c.traditionalchinese><c.bg_transparent>（安息吧，塔瑪拉布萊克）</c.bg_transparent></c.traditionalchinese>
+
+132
+00:07:47,920 --> 00:07:51,520
+<c.traditionalchinese><c.bg_transparent>（令人哀痛，你已經和天使同在了）</c.bg_transparent></c.traditionalchinese>
+
+133
+00:08:11,440 --> 00:08:12,400
+<c.traditionalchinese><c.bg_transparent>走吧</c.bg_transparent></c.traditionalchinese>
+
+134
+00:08:13,120 --> 00:08:15,080
+<c.traditionalchinese><c.bg_transparent>等等，我要訂花給蜜…</c.bg_transparent></c.traditionalchinese>
+
+135
+00:08:17,560 --> 00:08:18,680
+<c.traditionalchinese><c.bg_transparent>你做什麼？</c.bg_transparent></c.traditionalchinese>
+
+136
+00:08:19,880 --> 00:08:21,480
+<c.traditionalchinese><c.bg_transparent>你像個瘋子一樣</c.bg_transparent></c.traditionalchinese>
+
+137
+00:08:21,560 --> 00:08:23,720
+<c.traditionalchinese><c.bg_transparent>你癲癇發作，得去看醫生</c.bg_transparent></c.traditionalchinese>
+
+138
+00:08:29,200 --> 00:08:30,280
+<c.traditionalchinese><c.bg_transparent>不要這樣好嗎？</c.bg_transparent></c.traditionalchinese>
+
+139
+00:08:31,520 --> 00:08:33,720
+<c.traditionalchinese><c.bg_transparent>那個小男孩嚇壞了</c.bg_transparent></c.traditionalchinese>
+
+140
+00:08:33,800 --> 00:08:35,840
+<c.traditionalchinese><c.bg_transparent>他在我懷裡顫抖</c.bg_transparent></c.traditionalchinese>
+
+141
+00:08:35,920 --> 00:08:37,560
+<c.traditionalchinese><c.bg_transparent>很抱歉我昏倒了</c.bg_transparent></c.traditionalchinese>
+
+142
+00:08:38,160 --> 00:08:40,000
+<c.traditionalchinese><c.bg_transparent>-好</c.bg_transparent>
+<c.bg_transparent>-你覺得我是壞媽媽</c.bg_transparent></c.traditionalchinese>
+
+143
+00:08:41,000 --> 00:08:43,520
+<c.traditionalchinese><c.bg_transparent>-就像娜塔莉</c.bg_transparent>
+<c.bg_transparent>-不，我覺得你需要就醫</c.bg_transparent></c.traditionalchinese>
+
+144
+00:08:48,200 --> 00:08:49,600
+<c.traditionalchinese><c.bg_transparent>把手機還我</c.bg_transparent></c.traditionalchinese>
+
+145
+00:08:49,680 --> 00:08:51,200
+<c.traditionalchinese><c.bg_transparent>克萊夫，給我…</c.bg_transparent></c.traditionalchinese>
+
+146
+00:08:54,760 --> 00:08:56,360
+<c.traditionalchinese><c.bg_transparent>都是因為你父母</c.bg_transparent></c.traditionalchinese>
+
+147
+00:08:57,000 --> 00:08:59,720
+<c.traditionalchinese><c.bg_transparent>每次你回阿得雷德，他們就把你洗腦</c.bg_transparent></c.traditionalchinese>
+
+148
+00:09:01,760 --> 00:09:02,760
+<c.traditionalchinese><c.bg_transparent>你在我的腦海裡</c.bg_transparent></c.traditionalchinese>
+
+149
+00:09:04,800 --> 00:09:08,760
+<c.traditionalchinese><c.bg_transparent>你他媽的一直在這裡</c.bg_transparent></c.traditionalchinese>
+
+150
+00:09:13,600 --> 00:09:15,440
+<c.traditionalchinese><c.bg_transparent>沒事，小傢伙，嘿</c.bg_transparent></c.traditionalchinese>
+
+151
+00:09:15,520 --> 00:09:16,480
+<c.traditionalchinese><c.bg_transparent>沒事了</c.bg_transparent></c.traditionalchinese>
+
+152
+00:09:22,560 --> 00:09:25,200
+<c.traditionalchinese><c.bg_transparent>如果你不進去，就到此為止</c.bg_transparent></c.traditionalchinese>
+
+153
+00:09:25,960 --> 00:09:26,880
+<c.traditionalchinese><c.bg_transparent>我不玩了</c.bg_transparent></c.traditionalchinese>
+
+154
+00:09:38,560 --> 00:09:40,080
+<c.traditionalchinese><c.bg_transparent>我們有這麼美滿的家庭</c.bg_transparent></c.traditionalchinese>
+
+155
+00:09:42,760 --> 00:09:44,400
+<c.traditionalchinese><c.bg_transparent>你們的感情這麼緊密</c.bg_transparent></c.traditionalchinese>
+
+156
+00:09:45,960 --> 00:09:47,440
+<c.traditionalchinese><c.bg_transparent>就像靈魂伴侶</c.bg_transparent></c.traditionalchinese>
+
+157
+00:09:48,040 --> 00:09:49,720
+<c.traditionalchinese><c.bg_transparent>如果你離開，他會傷心欲絕</c.bg_transparent></c.traditionalchinese>
+
+158
+00:09:51,000 --> 00:09:53,800
+<c.traditionalchinese><c.bg_transparent>很多孩子經常在不同家庭之間遊走</c.bg_transparent></c.traditionalchinese>
+
+159
+00:09:54,400 --> 00:09:55,280
+<c.traditionalchinese><c.bg_transparent>他們會適應的</c.bg_transparent></c.traditionalchinese>
+
+160
+00:09:57,280 --> 00:09:58,920
+<c.traditionalchinese><c.bg_transparent>什麼意思？共享監護權嗎？</c.bg_transparent></c.traditionalchinese>
+
+161
+00:10:00,840 --> 00:10:02,040
+<c.traditionalchinese><c.bg_transparent>你、我跟奈森？</c.bg_transparent></c.traditionalchinese>
+
+162
+00:10:05,000 --> 00:10:07,320
+<c.traditionalchinese><c.bg_transparent>那怎麼行得通？</c.bg_transparent></c.traditionalchinese>
+
+163
+00:10:09,520 --> 00:10:11,640
+<c.traditionalchinese><c.bg_transparent>他的出生證明上沒有你的名字</c.bg_transparent></c.traditionalchinese>
+
+164
+00:10:12,480 --> 00:10:13,960
+<c.traditionalchinese><c.bg_transparent>你沒有任何權利</c.bg_transparent></c.traditionalchinese>
+
+165
+00:10:19,120 --> 00:10:20,240
+<c.traditionalchinese><c.bg_transparent>這太不公平了</c.bg_transparent></c.traditionalchinese>
+
+166
+00:10:21,840 --> 00:10:23,040
+<c.traditionalchinese><c.bg_transparent>我很抱歉</c.bg_transparent></c.traditionalchinese>
+
+167
+00:10:25,920 --> 00:10:28,520
+<c.traditionalchinese><c.bg_transparent>對不起，拜託</c.bg_transparent></c.traditionalchinese>
+
+168
+00:10:30,160 --> 00:10:32,600
+<c.traditionalchinese><c.bg_transparent>我保證我會去看醫生，好嗎？</c.bg_transparent></c.traditionalchinese>
+
+169
+00:10:35,960 --> 00:10:37,080
+<c.traditionalchinese><c.bg_transparent>我去約時間</c.bg_transparent></c.traditionalchinese>
+
+170
+00:10:37,640 --> 00:10:38,880
+<c.traditionalchinese><c.bg_transparent>你可以跟我一起去</c.bg_transparent></c.traditionalchinese>
+
+171
+00:10:40,520 --> 00:10:42,480
+<c.traditionalchinese><c.bg_transparent>好了，我們回家吧？</c.bg_transparent></c.traditionalchinese>
+
+172
+00:10:42,560 --> 00:10:45,920
+<c.traditionalchinese><c.bg_transparent>這樣小可愛才可以拆禮物，好嗎？</c.bg_transparent></c.traditionalchinese>
+
+173
+00:10:52,200 --> 00:10:53,880
+<c.traditionalchinese><c.bg_transparent>不，不要別這樣</c.bg_transparent></c.traditionalchinese>
+
+174
+00:10:53,960 --> 00:10:55,520
+<c.traditionalchinese><c.bg_transparent>克萊夫，拜託</c.bg_transparent></c.traditionalchinese>
+
+175
+00:10:55,600 --> 00:10:57,840
+<c.traditionalchinese><c.bg_transparent>我保證，我保證我會去，好嗎？</c.bg_transparent></c.traditionalchinese>
+
+176
+00:10:57,920 --> 00:10:59,240
+<c.traditionalchinese><c.bg_transparent>拜託了</c.bg_transparent></c.traditionalchinese>
+
+177
+00:11:01,040 --> 00:11:01,880
+<c.traditionalchinese><c.bg_transparent>上車</c.bg_transparent></c.traditionalchinese>
+
+178
+00:11:01,960 --> 00:11:03,080
+<c.traditionalchinese><c.bg_transparent>拜託</c.bg_transparent></c.traditionalchinese>
+
+179
+00:11:05,040 --> 00:11:06,040
+<c.traditionalchinese><c.bg_transparent>求你了</c.bg_transparent></c.traditionalchinese>
+
+180
+00:11:09,040 --> 00:11:11,000
+<c.traditionalchinese><c.bg_transparent>真他媽亂來</c.bg_transparent></c.traditionalchinese>
+
+181
+00:11:11,080 --> 00:11:13,440
+<c.traditionalchinese><c.bg_transparent>永遠別再在他面前搞這齣</c.bg_transparent></c.traditionalchinese>
+
+182
+00:11:43,760 --> 00:11:45,720
+<c.traditionalchinese><c.bg_transparent>這份是原味</c.bg_transparent></c.traditionalchinese>
+
+183
+00:11:46,960 --> 00:11:50,120
+<c.traditionalchinese><c.bg_transparent>我幫你選了糙米，而不是花椰菜米</c.bg_transparent></c.traditionalchinese>
+
+184
+00:11:50,200 --> 00:11:51,400
+<c.traditionalchinese><c.bg_transparent>比較有飽足感</c.bg_transparent></c.traditionalchinese>
+
+185
+00:11:52,200 --> 00:11:54,880
+<c.traditionalchinese><c.bg_transparent>有人要喝東西嗎？要不要水？</c.bg_transparent></c.traditionalchinese>
+
+186
+00:11:54,960 --> 00:11:56,040
+<c.traditionalchinese><c.bg_transparent>不用</c.bg_transparent></c.traditionalchinese>
+
+187
+00:12:05,200 --> 00:12:07,840
+<c.traditionalchinese><c.bg_transparent>爸，我在想我們可以找</c.bg_transparent>
+<c.bg_transparent>跟外婆一樣的葬儀社</c.bg_transparent></c.traditionalchinese>
+
+188
+00:12:09,320 --> 00:12:10,160
+<c.traditionalchinese><c.bg_transparent>好</c.bg_transparent></c.traditionalchinese>
+
+189
+00:12:12,560 --> 00:12:15,120
+<c.traditionalchinese><c.bg_transparent>你還記得他們嗎？</c.bg_transparent>
+<c.bg_transparent>你喜歡他們的服務嗎？</c.bg_transparent></c.traditionalchinese>
+
+190
+00:12:22,960 --> 00:12:25,040
+<c.traditionalchinese><c.bg_transparent>她死得很痛苦，對吧？</c.bg_transparent></c.traditionalchinese>
+
+191
+00:12:30,960 --> 00:12:32,800
+<c.traditionalchinese><c.bg_transparent>她死得很痛苦，對吧？</c.bg_transparent></c.traditionalchinese>
+
+192
+00:12:37,600 --> 00:12:38,680
+<c.traditionalchinese><c.bg_transparent>對</c.bg_transparent></c.traditionalchinese>
+
+193
+00:12:50,120 --> 00:12:52,080
+<c.traditionalchinese><c.bg_transparent>謝謝，阿洛，但我要去睡覺了</c.bg_transparent></c.traditionalchinese>
+
+194
+00:12:52,760 --> 00:12:53,880
+<c.traditionalchinese><c.bg_transparent>你們…</c.bg_transparent></c.traditionalchinese>
+
+195
+00:12:54,880 --> 00:12:56,640
+<c.traditionalchinese><c.bg_transparent>也該離開了</c.bg_transparent></c.traditionalchinese>
+
+196
+00:13:21,880 --> 00:13:23,360
+<c.traditionalchinese><c.bg_transparent>蜜拉，你要上床睡覺嗎？</c.bg_transparent></c.traditionalchinese>
+
+197
+00:13:24,000 --> 00:13:24,920
+<c.traditionalchinese><c.bg_transparent>等一下</c.bg_transparent></c.traditionalchinese>
+
+198
+00:13:26,000 --> 00:13:26,960
+<c.traditionalchinese><c.bg_transparent>嘿，小蜜</c.bg_transparent></c.traditionalchinese>
+
+199
+00:13:28,920 --> 00:13:30,520
+<c.traditionalchinese><c.bg_transparent>你還在用那種黑色藥膏嗎？</c.bg_transparent></c.traditionalchinese>
+
+200
+00:13:33,400 --> 00:13:35,800
+<c.traditionalchinese><c.bg_transparent>我看了很多相關資料</c.bg_transparent>
+<c.bg_transparent>或許你應該把它扔掉</c.bg_transparent></c.traditionalchinese>
+
+201
+00:13:39,560 --> 00:13:40,440
+<c.traditionalchinese><c.bg_transparent>小蜜？</c.bg_transparent></c.traditionalchinese>
+
+202
+00:13:41,880 --> 00:13:43,120
+<c.traditionalchinese><c.bg_transparent>知道了</c.bg_transparent></c.traditionalchinese>
+
+203
+00:14:17,080 --> 00:14:19,200
+<c.traditionalchinese><c.bg_transparent>嘿，你有看到茱莉辦公室的信嗎？</c.bg_transparent></c.traditionalchinese>
+
+204
+00:14:19,280 --> 00:14:22,160
+<c.traditionalchinese><c.bg_transparent>他們寄來新書發表會的賓客名單</c.bg_transparent></c.traditionalchinese>
+
+205
+00:14:22,720 --> 00:14:24,440
+<c.traditionalchinese><c.bg_transparent>我有點失望</c.bg_transparent></c.traditionalchinese>
+
+206
+00:14:24,520 --> 00:14:27,400
+<c.traditionalchinese><c.bg_transparent>很多老傢伙</c.bg_transparent>
+<c.bg_transparent>你能多邀幾號有趣的人物嗎？</c.bg_transparent></c.traditionalchinese>
+
+207
+00:14:27,480 --> 00:14:28,360
+<c.traditionalchinese><c.bg_transparent>好</c.bg_transparent></c.traditionalchinese>
+
+208
+00:14:29,320 --> 00:14:30,880
+<c.traditionalchinese><c.bg_transparent>你真的很有兩把刷子</c.bg_transparent></c.traditionalchinese>
+
+209
+00:14:30,960 --> 00:14:33,800
+<c.traditionalchinese><c.bg_transparent>明明懷著諸多疑慮</c.bg_transparent>
+<c.bg_transparent>你為什麼繼續替她工作？</c.bg_transparent></c.traditionalchinese>
+
+210
+00:14:34,440 --> 00:14:35,560
+<c.traditionalchinese><c.bg_transparent>我不知道</c.bg_transparent></c.traditionalchinese>
+
+211
+00:14:35,640 --> 00:14:37,680
+<c.traditionalchinese><c.bg_transparent>我的內臟都揪成一團了</c.bg_transparent></c.traditionalchinese>
+
+212
+00:14:37,760 --> 00:14:39,680
+<c.traditionalchinese><c.bg_transparent>我覺得好噁心</c.bg_transparent></c.traditionalchinese>
+
+213
+00:14:39,760 --> 00:14:41,760
+<c.traditionalchinese><c.bg_transparent>時時刻刻都是如此</c.bg_transparent></c.traditionalchinese>
+
+214
+00:14:42,400 --> 00:14:44,120
+<c.traditionalchinese><c.bg_transparent>她開始讓我感到厭惡</c.bg_transparent></c.traditionalchinese>
+
+215
+00:14:44,200 --> 00:14:45,680
+<c.traditionalchinese><c.bg_transparent>兩個佛陀碗？</c.bg_transparent></c.traditionalchinese>
+
+216
+00:14:46,520 --> 00:14:49,040
+<c.traditionalchinese><c.bg_transparent>真可口，你們家的香菇最好吃</c.bg_transparent></c.traditionalchinese>
+
+217
+00:14:49,120 --> 00:14:50,600
+<c.traditionalchinese><c.bg_transparent>-是野外採的嗎？</c.bg_transparent>
+<c.bg_transparent>-是就好了</c.bg_transparent></c.traditionalchinese>
+
+218
+00:14:51,280 --> 00:14:53,840
+<c.traditionalchinese><c.bg_transparent>那個女服務生</c.bg_transparent>
+<c.bg_transparent>是不是用奇怪眼神看我們？</c.bg_transparent></c.traditionalchinese>
+
+219
+00:14:53,920 --> 00:14:56,880
+<c.traditionalchinese><c.bg_transparent>不知道，也許她覺得你會吃霸王餐</c.bg_transparent></c.traditionalchinese>
+
+220
+00:15:00,040 --> 00:15:01,040
+<c.traditionalchinese><c.bg_transparent>-你看</c.bg_transparent>
+<c.bg_transparent>-嗯</c.bg_transparent></c.traditionalchinese>
+
+221
+00:15:01,120 --> 00:15:02,480
+<c.traditionalchinese><c.bg_transparent>她是粉絲</c.bg_transparent></c.traditionalchinese>
+
+222
+00:15:03,080 --> 00:15:04,280
+<c.traditionalchinese><c.bg_transparent>我去打聲招呼</c.bg_transparent></c.traditionalchinese>
+
+223
+00:15:22,440 --> 00:15:23,280
+<c.traditionalchinese><c.bg_transparent>嗨</c.bg_transparent></c.traditionalchinese>
+
+224
+00:15:23,360 --> 00:15:24,280
+<c.traditionalchinese><c.bg_transparent>嗨</c.bg_transparent></c.traditionalchinese>
+
+225
+00:15:26,000 --> 00:15:27,320
+<c.traditionalchinese><c.bg_transparent>情況怎麼樣？</c.bg_transparent></c.traditionalchinese>
+
+226
+00:15:30,000 --> 00:15:31,240
+<c.traditionalchinese><c.bg_transparent>我…</c.bg_transparent></c.traditionalchinese>
+
+227
+00:15:32,240 --> 00:15:34,560
+<c.traditionalchinese><c.bg_transparent>我送了花過去，不知道你有沒有收到</c.bg_transparent></c.traditionalchinese>
+
+228
+00:15:34,640 --> 00:15:36,080
+<c.traditionalchinese><c.bg_transparent>我們要求捐款</c.bg_transparent></c.traditionalchinese>
+
+229
+00:15:37,760 --> 00:15:38,840
+<c.traditionalchinese><c.bg_transparent>抱歉，這樣說有點壞</c.bg_transparent></c.traditionalchinese>
+
+230
+00:15:38,920 --> 00:15:41,440
+<c.traditionalchinese><c.bg_transparent>不，沒關係，那個…</c.bg_transparent></c.traditionalchinese>
+
+231
+00:15:42,760 --> 00:15:47,160
+<c.traditionalchinese><c.bg_transparent>我本來想過去一趟</c.bg_transparent>
+<c.bg_transparent>但阿洛說你可能不希望…</c.bg_transparent></c.traditionalchinese>
+
+232
+00:15:47,240 --> 00:15:51,600
+<c.traditionalchinese><c.bg_transparent>只有邀家人而已，所以…</c.bg_transparent>
+<c.bg_transparent>我們會再找時間舉辦告別式</c.bg_transparent></c.traditionalchinese>
+
+233
+00:15:55,640 --> 00:15:56,880
+<c.traditionalchinese><c.bg_transparent>喬還好嗎？</c.bg_transparent></c.traditionalchinese>
+
+234
+00:15:59,080 --> 00:16:00,320
+<c.traditionalchinese><c.bg_transparent>我得掛了</c.bg_transparent></c.traditionalchinese>
+
+235
+00:16:01,200 --> 00:16:03,600
+<c.traditionalchinese><c.bg_transparent>等等，小蜜，我…</c.bg_transparent></c.traditionalchinese>
+
+236
+00:16:05,320 --> 00:16:09,640
+<c.traditionalchinese><c.bg_transparent>我覺得我有很多地方要道歉，但是…</c.bg_transparent></c.traditionalchinese>
+
+237
+00:16:10,840 --> 00:16:16,320
+<c.traditionalchinese><c.bg_transparent>還有，我跟貝兒說了塔瑪拉的事</c.bg_transparent></c.traditionalchinese>
+
+238
+00:16:16,880 --> 00:16:19,600
+<c.traditionalchinese><c.bg_transparent>她就在他的IG上發文</c.bg_transparent></c.traditionalchinese>
+
+239
+00:16:19,680 --> 00:16:22,160
+<c.traditionalchinese><c.bg_transparent>這讓我很反感</c.bg_transparent></c.traditionalchinese>
+
+240
+00:16:22,240 --> 00:16:23,640
+<c.traditionalchinese><c.bg_transparent>對，我看到了</c.bg_transparent></c.traditionalchinese>
+
+241
+00:16:25,000 --> 00:16:26,920
+<c.traditionalchinese><c.bg_transparent>我當時在太平間</c.bg_transparent></c.traditionalchinese>
+
+242
+00:16:27,920 --> 00:16:29,240
+<c.traditionalchinese><c.bg_transparent>機場有太平間</c.bg_transparent></c.traditionalchinese>
+
+243
+00:16:30,040 --> 00:16:32,440
+<c.traditionalchinese><c.bg_transparent>-誰想得到？</c.bg_transparent>
+<c.bg_transparent>-對不起，小蜜</c.bg_transparent></c.traditionalchinese>
+
+244
+00:16:32,520 --> 00:16:35,440
+<c.traditionalchinese><c.bg_transparent>為什麼要道歉？貝兒真是體貼入微</c.bg_transparent></c.traditionalchinese>
+
+245
+00:16:35,520 --> 00:16:38,880
+<c.traditionalchinese><c.bg_transparent>從未見過我母親卻硬要裝熟來蹭熱度</c.bg_transparent></c.traditionalchinese>
+
+246
+00:16:38,960 --> 00:16:41,520
+<c.traditionalchinese><c.bg_transparent>她好親切，她得乳癌</c.bg_transparent></c.traditionalchinese>
+
+247
+00:16:41,600 --> 00:16:44,360
+<c.traditionalchinese><c.bg_transparent>我邀她來參加新書發表會</c.bg_transparent>
+<c.bg_transparent>你登記一下</c.bg_transparent></c.traditionalchinese>
+
+248
+00:16:45,520 --> 00:16:46,400
+<c.traditionalchinese><c.bg_transparent>好</c.bg_transparent></c.traditionalchinese>
+
+249
+00:16:48,840 --> 00:16:49,880
+<c.traditionalchinese><c.bg_transparent>小蜜？</c.bg_transparent></c.traditionalchinese>
+
+250
+00:16:51,000 --> 00:16:52,640
+<c.traditionalchinese><c.bg_transparent>我就不打擾你了，好嗎？</c.bg_transparent></c.traditionalchinese>
+
+251
+00:16:57,320 --> 00:16:58,440
+<c.traditionalchinese><c.bg_transparent>就這樣</c.bg_transparent></c.traditionalchinese>
+
+252
+00:16:58,520 --> 00:17:01,680
+<c.traditionalchinese><c.bg_transparent>臨界點，被打臉</c.bg_transparent>
+<c.bg_transparent>隨便你怎麼說，總之我受夠了</c.bg_transparent></c.traditionalchinese>
+
+253
+00:17:01,760 --> 00:17:05,160
+<c.traditionalchinese><c.bg_transparent>（面對自戀者，如何安排介入手段）</c.bg_transparent></c.traditionalchinese>
+
+254
+00:17:10,600 --> 00:17:13,280
+<c.traditionalchinese><c.bg_transparent>預計到達時間前五分鐘</c.bg_transparent>
+<c.bg_transparent>我傳簡訊給她</c.bg_transparent></c.traditionalchinese>
+
+255
+00:17:13,320 --> 00:17:15,840
+<c.traditionalchinese><c.bg_transparent>（我會過去，我們需要談一談）</c.bg_transparent></c.traditionalchinese>
+
+256
+00:17:15,920 --> 00:17:18,920
+<c.traditionalchinese><c.bg_transparent>你到底有沒有</c.bg_transparent></c.traditionalchinese>
+
+257
+00:17:19,000 --> 00:17:22,760
+<c.traditionalchinese><c.bg_transparent>他媽的腦癌？</c.bg_transparent></c.traditionalchinese>
+
+258
+00:17:23,360 --> 00:17:24,760
+<c.traditionalchinese><c.bg_transparent>（我到了，在大門口）</c.bg_transparent></c.traditionalchinese>
+
+259
+00:17:24,840 --> 00:17:26,720
+<c.traditionalchinese><c.bg_transparent>我中途因為緊張停下來拉屎</c.bg_transparent></c.traditionalchinese>
+
+260
+00:17:26,800 --> 00:17:29,480
+<c.traditionalchinese><c.bg_transparent>我的靜止心率每分鐘高達99次</c.bg_transparent></c.traditionalchinese>
+
+261
+00:17:29,560 --> 00:17:31,440
+<c.traditionalchinese><c.bg_transparent>順便說一聲，已經接近心搏過速了</c.bg_transparent></c.traditionalchinese>
+
+262
+00:17:34,200 --> 00:17:37,120
+<c.traditionalchinese><c.bg_transparent>嗨，好高興你來了</c.bg_transparent></c.traditionalchinese>
+
+263
+00:17:37,200 --> 00:17:40,520
+<c.traditionalchinese><c.bg_transparent>真有趣，好了</c.bg_transparent>
+<c.bg_transparent>我有個驚喜要給你，快進來</c.bg_transparent></c.traditionalchinese>
+
+264
+00:17:42,760 --> 00:17:43,640
+<c.traditionalchinese><c.bg_transparent>好的</c.bg_transparent></c.traditionalchinese>
+
+265
+00:17:50,480 --> 00:17:53,040
+<c.traditionalchinese><c.bg_transparent>雖然不是一模一樣，但很接近了</c.bg_transparent></c.traditionalchinese>
+
+266
+00:17:54,040 --> 00:17:55,000
+<c.traditionalchinese><c.bg_transparent>你喜歡嗎？</c.bg_transparent></c.traditionalchinese>
+
+267
+00:17:55,840 --> 00:17:58,200
+<c.traditionalchinese><c.bg_transparent>對，嗯…好吧</c.bg_transparent></c.traditionalchinese>
+
+268
+00:18:00,280 --> 00:18:01,640
+<c.traditionalchinese><c.bg_transparent>我們能不能…</c.bg_transparent></c.traditionalchinese>
+
+269
+00:18:03,480 --> 00:18:05,520
+<c.traditionalchinese><c.bg_transparent>可以請你坐下嗎？</c.bg_transparent></c.traditionalchinese>
+
+270
+00:18:05,600 --> 00:18:07,440
+<c.traditionalchinese><c.bg_transparent>這是致敬，不是模仿</c.bg_transparent></c.traditionalchinese>
+
+271
+00:18:08,760 --> 00:18:09,600
+<c.traditionalchinese><c.bg_transparent>好了</c.bg_transparent></c.traditionalchinese>
+
+272
+00:18:12,680 --> 00:18:13,680
+<c.traditionalchinese><c.bg_transparent>貝兒</c.bg_transparent></c.traditionalchinese>
+
+273
+00:18:14,560 --> 00:18:15,760
+<c.traditionalchinese><c.bg_transparent>香奈爾</c.bg_transparent></c.traditionalchinese>
+
+274
+00:18:19,680 --> 00:18:21,680
+<c.traditionalchinese><c.bg_transparent>我們墜入愛河了嗎？</c.bg_transparent></c.traditionalchinese>
+
+275
+00:18:22,480 --> 00:18:23,440
+<c.traditionalchinese><c.bg_transparent>貝兒</c.bg_transparent></c.traditionalchinese>
+
+276
+00:18:25,040 --> 00:18:27,440
+<c.traditionalchinese><c.bg_transparent>我今晚來這裡…</c.bg_transparent></c.traditionalchinese>
+
+277
+00:18:28,800 --> 00:18:30,240
+<c.traditionalchinese><c.bg_transparent>是想問你…</c.bg_transparent></c.traditionalchinese>
+
+278
+00:18:32,600 --> 00:18:34,120
+<c.traditionalchinese><c.bg_transparent>你有腦癌嗎？</c.bg_transparent></c.traditionalchinese>
+
+279
+00:18:34,200 --> 00:18:35,520
+<c.traditionalchinese><c.bg_transparent>她怎麼反應？</c.bg_transparent></c.traditionalchinese>
+
+280
+00:18:36,400 --> 00:18:38,840
+<c.traditionalchinese><c.bg_transparent>哭得淅瀝嘩啦</c.bg_transparent></c.traditionalchinese>
+
+281
+00:18:45,760 --> 00:18:47,520
+<c.traditionalchinese><c.bg_transparent>“你為什麼要這樣？”</c.bg_transparent></c.traditionalchinese>
+
+282
+00:18:47,600 --> 00:18:50,280
+<c.traditionalchinese><c.bg_transparent>“為什麼對我這麼惡劣？”</c.bg_transparent></c.traditionalchinese>
+
+283
+00:18:52,360 --> 00:18:53,320
+<c.traditionalchinese><c.bg_transparent>嘿，貝兒</c.bg_transparent></c.traditionalchinese>
+
+284
+00:18:54,160 --> 00:18:58,600
+<c.traditionalchinese><c.bg_transparent>-你為什麼這麼做？我不明白</c.bg_transparent>
+<c.bg_transparent>-這是你的核心圈子，好嗎？</c.bg_transparent></c.traditionalchinese>
+
+285
+00:18:58,680 --> 00:19:02,200
+<c.traditionalchinese><c.bg_transparent>你在這裡很安全</c.bg_transparent>
+<c.bg_transparent>事情從這裡開始，也要在這裡結束</c.bg_transparent></c.traditionalchinese>
+
+286
+00:19:02,280 --> 00:19:06,640
+<c.traditionalchinese><c.bg_transparent>-我以為蜜拉才是你的核心圈子</c.bg_transparent>
+<c.bg_transparent>-對，蜜拉也是我朋友</c.bg_transparent></c.traditionalchinese>
+
+287
+00:19:06,720 --> 00:19:09,960
+<c.traditionalchinese><c.bg_transparent>-但你可以有很多核心…</c.bg_transparent>
+<c.bg_transparent>-我聽說她癌症復發</c.bg_transparent></c.traditionalchinese>
+
+288
+00:19:11,280 --> 00:19:14,360
+<c.traditionalchinese><c.bg_transparent>並沒有，沒這回事</c.bg_transparent>
+<c.bg_transparent>你從哪裡聽來的？</c.bg_transparent></c.traditionalchinese>
+
+289
+00:19:14,920 --> 00:19:18,240
+<c.traditionalchinese><c.bg_transparent>你們鬧翻了嗎？</c.bg_transparent>
+<c.bg_transparent>如果是因為我，我很過意不去</c.bg_transparent></c.traditionalchinese>
+
+290
+00:19:18,320 --> 00:19:20,720
+<c.traditionalchinese><c.bg_transparent>-她的粉絲人數…</c.bg_transparent>
+<c.bg_transparent>-蜜拉沒那麼缺乏自信</c.bg_transparent></c.traditionalchinese>
+
+291
+00:19:20,800 --> 00:19:22,960
+<c.traditionalchinese><c.bg_transparent>你說她是你見過最好勝的人</c.bg_transparent></c.traditionalchinese>
+
+292
+00:19:23,040 --> 00:19:25,960
+<c.traditionalchinese><c.bg_transparent>記得我們在那家巷道酒吧</c.bg_transparent>
+<c.bg_transparent>喝莫西多調酒的時候嗎？</c.bg_transparent></c.traditionalchinese>
+
+293
+00:19:26,040 --> 00:19:28,120
+<c.traditionalchinese><c.bg_transparent>你說她10年級時有飲食障礙症</c.bg_transparent></c.traditionalchinese>
+
+294
+00:19:28,200 --> 00:19:30,480
+<c.traditionalchinese><c.bg_transparent>差點要住院治療</c.bg_transparent>
+<c.bg_transparent>只因為她想成為最瘦的女生</c.bg_transparent></c.traditionalchinese>
+
+295
+00:19:30,560 --> 00:19:32,240
+<c.traditionalchinese><c.bg_transparent>你有沒有腦癌？</c.bg_transparent></c.traditionalchinese>
+
+296
+00:19:32,800 --> 00:19:35,280
+<c.traditionalchinese><c.bg_transparent>給我看任何一樣醫療證據</c.bg_transparent></c.traditionalchinese>
+
+297
+00:19:35,360 --> 00:19:38,480
+<c.traditionalchinese><c.bg_transparent>一張掃描片</c.bg_transparent>
+<c.bg_transparent>或腫瘤科醫生的手寫病歷都好</c.bg_transparent></c.traditionalchinese>
+
+298
+00:19:38,560 --> 00:19:40,560
+<c.traditionalchinese><c.bg_transparent>我以後再也不會提這件事</c.bg_transparent></c.traditionalchinese>
+
+299
+00:19:40,640 --> 00:19:43,600
+<c.traditionalchinese><c.bg_transparent>我全丟了，我不要家裡有那種能量</c.bg_transparent></c.traditionalchinese>
+
+300
+00:19:43,680 --> 00:19:45,320
+<c.traditionalchinese><c.bg_transparent>-誰診斷的？</c.bg_transparent>
+<c.bg_transparent>-你為什麼攻擊我？</c.bg_transparent></c.traditionalchinese>
+
+301
+00:19:45,400 --> 00:19:47,200
+<c.traditionalchinese><c.bg_transparent>我只是癲癇發作，結果人人都討厭我</c.bg_transparent></c.traditionalchinese>
+
+302
+00:19:47,280 --> 00:19:50,360
+<c.traditionalchinese><c.bg_transparent>哪一位醫生，貝兒？打電話過去</c.bg_transparent></c.traditionalchinese>
+
+303
+00:19:50,440 --> 00:19:51,760
+<c.traditionalchinese><c.bg_transparent>你見過菲爾醫生了</c.bg_transparent></c.traditionalchinese>
+
+304
+00:19:51,840 --> 00:19:54,760
+<c.traditionalchinese><c.bg_transparent>見鬼，你有沒有搞錯？</c.bg_transparent></c.traditionalchinese>
+
+305
+00:19:54,840 --> 00:19:56,880
+<c.traditionalchinese><c.bg_transparent>菲爾醫生打赤腳耶</c.bg_transparent></c.traditionalchinese>
+
+306
+00:19:56,960 --> 00:19:59,480
+<c.traditionalchinese><c.bg_transparent>小聲一點，克萊夫和小傢伙在睡覺</c.bg_transparent></c.traditionalchinese>
+
+307
+00:19:59,560 --> 00:20:01,840
+<c.traditionalchinese><c.bg_transparent>你說得對，叫他過來，克萊夫？</c.bg_transparent></c.traditionalchinese>
+
+308
+00:20:03,360 --> 00:20:04,920
+<c.traditionalchinese><c.bg_transparent>嘿，克萊夫</c.bg_transparent></c.traditionalchinese>
+
+309
+00:20:05,720 --> 00:20:08,760
+<c.traditionalchinese><c.bg_transparent>我們得談談貝兒的事，克萊夫？</c.bg_transparent></c.traditionalchinese>
+
+310
+00:20:09,880 --> 00:20:11,840
+<c.traditionalchinese><c.bg_transparent>你躲在浴室裡嗎？</c.bg_transparent></c.traditionalchinese>
+
+311
+00:20:13,880 --> 00:20:15,600
+<c.traditionalchinese><c.bg_transparent>抱歉，失陪一下，喂？</c.bg_transparent></c.traditionalchinese>
+
+312
+00:20:16,400 --> 00:20:17,800
+<c.traditionalchinese><c.bg_transparent>茱兒</c.bg_transparent></c.traditionalchinese>
+
+313
+00:20:17,880 --> 00:20:19,160
+<c.traditionalchinese><c.bg_transparent>茱兒，是我</c.bg_transparent></c.traditionalchinese>
+
+314
+00:20:19,760 --> 00:20:21,200
+<c.traditionalchinese><c.bg_transparent>出事了</c.bg_transparent></c.traditionalchinese>
+
+315
+00:20:21,280 --> 00:20:23,880
+<c.traditionalchinese><c.bg_transparent>我不知道你有沒有</c.bg_transparent>
+<c.bg_transparent>跟任何人談過，但…</c.bg_transparent></c.traditionalchinese>
+
+316
+00:20:23,960 --> 00:20:25,360
+<c.traditionalchinese><c.bg_transparent>貝拉，親愛的</c.bg_transparent></c.traditionalchinese>
+
+317
+00:20:25,440 --> 00:20:27,640
+<c.traditionalchinese><c.bg_transparent>冷靜下來，怎麼回事？</c.bg_transparent></c.traditionalchinese>
+
+318
+00:20:27,720 --> 00:20:28,640
+<c.traditionalchinese><c.bg_transparent>克萊夫，拜託</c.bg_transparent></c.traditionalchinese>
+
+319
+00:20:30,880 --> 00:20:32,480
+<c.traditionalchinese><c.bg_transparent>克萊夫，我需要你在場</c.bg_transparent></c.traditionalchinese>
+
+320
+00:20:32,560 --> 00:20:35,440
+<c.traditionalchinese><c.bg_transparent>-你有聽說我的癌症傳言嗎？</c.bg_transparent>
+<c.bg_transparent>-什麼傳言？</c.bg_transparent></c.traditionalchinese>
+
+321
+00:20:35,520 --> 00:20:38,040
+<c.traditionalchinese><c.bg_transparent>外面有一些流言蜚語，但都不是事實</c.bg_transparent></c.traditionalchinese>
+
+322
+00:20:38,120 --> 00:20:40,600
+<c.traditionalchinese><c.bg_transparent>要是你聽到風聲</c.bg_transparent>
+<c.bg_transparent>請理解那是一個眼紅的朋友…</c.bg_transparent></c.traditionalchinese>
+
+323
+00:20:40,680 --> 00:20:43,000
+<c.traditionalchinese><c.bg_transparent>喂，你跟講電話？</c.bg_transparent></c.traditionalchinese>
+
+324
+00:20:43,080 --> 00:20:45,920
+<c.traditionalchinese><c.bg_transparent>-那是誰？</c.bg_transparent>
+<c.bg_transparent>-我要掛了，愛你，再見</c.bg_transparent></c.traditionalchinese>
+
+325
+00:20:49,200 --> 00:20:50,760
+<c.traditionalchinese><c.bg_transparent>-剛剛是誰？</c.bg_transparent>
+<c.bg_transparent>-一個朋友</c.bg_transparent></c.traditionalchinese>
+
+326
+00:20:50,840 --> 00:20:52,920
+<c.traditionalchinese><c.bg_transparent>好吧，克萊夫，不好意思</c.bg_transparent></c.traditionalchinese>
+
+327
+00:20:53,000 --> 00:20:56,080
+<c.traditionalchinese><c.bg_transparent>-可以請你過來客廳嗎？</c.bg_transparent>
+<c.bg_transparent>-能不能讓我喝點水？</c.bg_transparent></c.traditionalchinese>
+
+328
+00:20:56,160 --> 00:20:58,640
+<c.traditionalchinese><c.bg_transparent>不行，麻煩立刻過來客廳</c.bg_transparent></c.traditionalchinese>
+
+329
+00:20:58,720 --> 00:21:00,200
+<c.traditionalchinese><c.bg_transparent>貝兒，你也是，快過來</c.bg_transparent></c.traditionalchinese>
+
+330
+00:21:01,440 --> 00:21:03,920
+<c.traditionalchinese><c.bg_transparent>好，是這樣的</c.bg_transparent></c.traditionalchinese>
+
+331
+00:21:04,000 --> 00:21:05,960
+<c.traditionalchinese><c.bg_transparent>聽著，我不是為人父母</c.bg_transparent></c.traditionalchinese>
+
+332
+00:21:06,040 --> 00:21:08,640
+<c.traditionalchinese><c.bg_transparent>但我真的認為你兒子</c.bg_transparent></c.traditionalchinese>
+
+333
+00:21:08,720 --> 00:21:12,120
+<c.traditionalchinese><c.bg_transparent>有權知道他媽媽並沒有快要死了</c.bg_transparent>
+<c.bg_transparent>簡單來說</c.bg_transparent></c.traditionalchinese>
+
+334
+00:21:12,640 --> 00:21:15,560
+<c.traditionalchinese><c.bg_transparent>而且克萊夫認同我的看法</c.bg_transparent>
+<c.bg_transparent>對吧，克萊夫？</c.bg_transparent></c.traditionalchinese>
+
+335
+00:21:15,640 --> 00:21:17,560
+<c.traditionalchinese><c.bg_transparent>-對，是的</c.bg_transparent>
+<c.bg_transparent>-好</c.bg_transparent></c.traditionalchinese>
+
+336
+00:21:17,640 --> 00:21:21,080
+<c.traditionalchinese><c.bg_transparent>-大體上認同</c.bg_transparent>
+<c.bg_transparent>-所以我們要一起去醫院</c.bg_transparent></c.traditionalchinese>
+
+337
+00:21:21,160 --> 00:21:23,640
+<c.traditionalchinese><c.bg_transparent>-我癲癇發作後，我們已經去過了</c.bg_transparent>
+<c.bg_transparent>-這個嘛…</c.bg_transparent></c.traditionalchinese>
+
+338
+00:21:23,720 --> 00:21:24,800
+<c.traditionalchinese><c.bg_transparent>然後我決定…</c.bg_transparent></c.traditionalchinese>
+
+339
+00:21:24,880 --> 00:21:28,400
+<c.traditionalchinese><c.bg_transparent>-克萊夫，你遲疑了是什麼意思？</c.bg_transparent>
+<c.bg_transparent>-我們去過醫院了</c.bg_transparent></c.traditionalchinese>
+
+340
+00:21:28,480 --> 00:21:32,200
+<c.traditionalchinese><c.bg_transparent>我們認為我沒時間</c.bg_transparent>
+<c.bg_transparent>再另外找一個醫療團隊診治</c.bg_transparent></c.traditionalchinese>
+
+341
+00:21:32,280 --> 00:21:35,280
+<c.traditionalchinese><c.bg_transparent>我只想好好享受能跟家人共處的時光</c.bg_transparent></c.traditionalchinese>
+
+342
+00:21:35,920 --> 00:21:38,440
+<c.traditionalchinese><c.bg_transparent>我不該被強迫證實或否認</c.bg_transparent></c.traditionalchinese>
+
+343
+00:21:38,520 --> 00:21:41,440
+<c.traditionalchinese><c.bg_transparent>就像狗仔隊在琳賽蘿涵剛剛流產時</c.bg_transparent></c.traditionalchinese>
+
+344
+00:21:41,520 --> 00:21:43,720
+<c.traditionalchinese><c.bg_transparent>到處追著她跑</c.bg_transparent></c.traditionalchinese>
+
+345
+00:21:43,800 --> 00:21:47,080
+<c.traditionalchinese><c.bg_transparent>懷孕是她的私事，跟任何人無關</c.bg_transparent></c.traditionalchinese>
+
+346
+00:21:47,920 --> 00:21:49,920
+<c.traditionalchinese><c.bg_transparent>知道嗎，寶貝，我…</c.bg_transparent></c.traditionalchinese>
+
+347
+00:21:51,000 --> 00:21:52,960
+<c.traditionalchinese><c.bg_transparent>實際上我完全認同你說的</c.bg_transparent></c.traditionalchinese>
+
+348
+00:21:54,280 --> 00:21:56,280
+<c.traditionalchinese><c.bg_transparent>你是很棒的人</c.bg_transparent></c.traditionalchinese>
+
+349
+00:21:56,920 --> 00:22:01,440
+<c.traditionalchinese><c.bg_transparent>真的，我知道你的心胸多寬大</c.bg_transparent>
+<c.bg_transparent>要是我不相信你，那…</c.bg_transparent></c.traditionalchinese>
+
+350
+00:22:01,960 --> 00:22:03,560
+<c.traditionalchinese><c.bg_transparent>我就不會在這裡了</c.bg_transparent></c.traditionalchinese>
+
+351
+00:22:04,200 --> 00:22:06,200
+<c.traditionalchinese><c.bg_transparent>我老早就去找媒體爆料</c.bg_transparent></c.traditionalchinese>
+
+352
+00:22:12,440 --> 00:22:13,480
+<c.traditionalchinese><c.bg_transparent>那個…</c.bg_transparent></c.traditionalchinese>
+
+353
+00:22:15,840 --> 00:22:19,520
+<c.traditionalchinese><c.bg_transparent>我需要薄荷茶和一些零食</c.bg_transparent></c.traditionalchinese>
+
+354
+00:22:20,560 --> 00:22:21,800
+<c.traditionalchinese><c.bg_transparent>可以麻煩你嗎？</c.bg_transparent></c.traditionalchinese>
+
+355
+00:22:26,320 --> 00:22:28,080
+<c.traditionalchinese><c.bg_transparent>貝兒，嘿</c.bg_transparent></c.traditionalchinese>
+
+356
+00:22:30,000 --> 00:22:31,800
+<c.traditionalchinese><c.bg_transparent>我知道你想做正確的事</c.bg_transparent></c.traditionalchinese>
+
+357
+00:22:33,840 --> 00:22:37,200
+<c.traditionalchinese><c.bg_transparent>說真的，寶貝，你可以挺過風暴的</c.bg_transparent></c.traditionalchinese>
+
+358
+00:22:39,600 --> 00:22:41,120
+<c.traditionalchinese><c.bg_transparent>那只是…我理解</c.bg_transparent></c.traditionalchinese>
+
+359
+00:22:41,200 --> 00:22:44,200
+<c.traditionalchinese><c.bg_transparent>情況就像滾雪球一樣越滾越大</c.bg_transparent>
+<c.bg_transparent>最後失控</c.bg_transparent></c.traditionalchinese>
+
+360
+00:22:44,280 --> 00:22:45,880
+<c.traditionalchinese><c.bg_transparent>不是那樣的</c.bg_transparent></c.traditionalchinese>
+
+361
+00:22:50,640 --> 00:22:52,640
+<c.traditionalchinese><c.bg_transparent>我老是疲憊不堪</c.bg_transparent></c.traditionalchinese>
+
+362
+00:22:54,080 --> 00:22:55,080
+<c.traditionalchinese><c.bg_transparent>我懂</c.bg_transparent></c.traditionalchinese>
+
+363
+00:22:55,880 --> 00:22:58,880
+<c.traditionalchinese><c.bg_transparent>也許說出來會輕鬆一點呢？</c.bg_transparent></c.traditionalchinese>
+
+364
+00:23:00,040 --> 00:23:00,920
+<c.traditionalchinese><c.bg_transparent>對嗎？</c.bg_transparent></c.traditionalchinese>
+
+365
+00:23:06,200 --> 00:23:07,600
+<c.traditionalchinese><c.bg_transparent>你會陪著我嗎？</c.bg_transparent></c.traditionalchinese>
+
+366
+00:23:08,840 --> 00:23:10,520
+<c.traditionalchinese><c.bg_transparent>天啊，我當然會陪你</c.bg_transparent></c.traditionalchinese>
+
+367
+00:23:11,200 --> 00:23:14,280
+<c.traditionalchinese><c.bg_transparent>但你一定要撤銷那本書</c.bg_transparent></c.traditionalchinese>
+
+368
+00:23:14,360 --> 00:23:15,640
+<c.traditionalchinese><c.bg_transparent>知道嗎？不能上市</c.bg_transparent></c.traditionalchinese>
+
+369
+00:23:16,200 --> 00:23:17,880
+<c.traditionalchinese><c.bg_transparent>告訴蘋果你要退出智慧手表</c.bg_transparent></c.traditionalchinese>
+
+370
+00:23:19,200 --> 00:23:20,920
+<c.traditionalchinese><c.bg_transparent>恐怕沒辦法</c.bg_transparent></c.traditionalchinese>
+
+371
+00:23:24,000 --> 00:23:26,640
+<c.traditionalchinese><c.bg_transparent>-但我可以試試，對吧？</c.bg_transparent>
+<c.bg_transparent>-對</c.bg_transparent></c.traditionalchinese>
+
+372
+00:23:33,120 --> 00:23:34,800
+<c.traditionalchinese><c.bg_transparent>那你就不會討厭我了嗎？</c.bg_transparent></c.traditionalchinese>
+
+373
+00:23:36,560 --> 00:23:37,800
+<c.traditionalchinese><c.bg_transparent>我不討厭你</c.bg_transparent></c.traditionalchinese>
+
+374
+00:23:40,040 --> 00:23:41,200
+<c.traditionalchinese><c.bg_transparent>你保證？</c.bg_transparent></c.traditionalchinese>
+
+375
+00:23:41,920 --> 00:23:43,560
+<c.traditionalchinese><c.bg_transparent>對，我保證</c.bg_transparent></c.traditionalchinese>
+
+376
+00:24:35,640 --> 00:24:38,240
+<c.traditionalchinese><c.bg_transparent>致我那美妙、顛覆傳統的小社群</c.bg_transparent></c.traditionalchinese>
+
+377
+00:24:39,920 --> 00:24:44,280
+<c.traditionalchinese><c.bg_transparent>懷著內心的痛苦，我今晚理清思緒</c.bg_transparent></c.traditionalchinese>
+
+378
+00:24:45,960 --> 00:24:46,960
+<c.traditionalchinese><c.bg_transparent>要告訴大家</c.bg_transparent></c.traditionalchinese>
+
+379
+00:24:47,040 --> 00:24:48,360
+<c.traditionalchinese><c.bg_transparent>要告訴大家</c.bg_transparent></c.traditionalchinese>
+
+380
+00:24:49,480 --> 00:24:50,800
+<c.traditionalchinese><c.bg_transparent>要告訴大家</c.bg_transparent></c.traditionalchinese>
+
+381
+00:24:54,520 --> 00:24:57,080
+<c.traditionalchinese><c.bg_transparent>我很不幸地遭到誤診…</c.bg_transparent></c.traditionalchinese>
+
+382
+00:25:00,600 --> 00:25:01,600
+<c.traditionalchinese><c.bg_transparent>（刪除）</c.bg_transparent></c.traditionalchinese>
+
+383
+00:25:11,240 --> 00:25:13,520
+<c.traditionalchinese><c.bg_transparent>我最近被診斷出</c.bg_transparent></c.traditionalchinese>
+
+384
+00:25:14,560 --> 00:25:15,400
+<c.traditionalchinese><c.bg_transparent>罹患第三個…</c.bg_transparent></c.traditionalchinese>
+
+385
+00:25:15,480 --> 00:25:18,520
+<c.traditionalchinese><c.bg_transparent>罹患第三個和第四個癌症</c.bg_transparent></c.traditionalchinese>
+
+386
+00:25:19,880 --> 00:25:22,520
+<c.traditionalchinese><c.bg_transparent>癌細胞已經蔓延我的腦部</c.bg_transparent></c.traditionalchinese>
+
+387
+00:25:23,120 --> 00:25:24,000
+<c.traditionalchinese><c.bg_transparent>肝臟</c.bg_transparent></c.traditionalchinese>
+
+388
+00:25:24,760 --> 00:25:25,800
+<c.traditionalchinese><c.bg_transparent>脾臟</c.bg_transparent></c.traditionalchinese>
+
+389
+00:25:27,000 --> 00:25:28,240
+<c.traditionalchinese><c.bg_transparent>子宮</c.bg_transparent></c.traditionalchinese>
+
+390
+00:25:28,840 --> 00:25:29,720
+<c.traditionalchinese><c.bg_transparent>以及血液</c.bg_transparent></c.traditionalchinese>
+
+391
+00:25:30,760 --> 00:25:34,600
+<c.traditionalchinese><c.bg_transparent>因此，帶著心中滿滿的愛</c.bg_transparent></c.traditionalchinese>
+
+392
+00:25:34,680 --> 00:25:38,200
+<c.traditionalchinese><c.bg_transparent>我必須把工作</c.bg_transparent>
+<c.bg_transparent>交棒給健康廚坊的其他人</c.bg_transparent></c.traditionalchinese>
+
+393
+00:25:38,280 --> 00:25:40,480
+<c.traditionalchinese><c.bg_transparent>讓我們的集體思想得以延續下去</c.bg_transparent></c.traditionalchinese>
+
+394
+00:25:42,080 --> 00:25:44,200
+<c.traditionalchinese><c.bg_transparent>雖然我很痛苦</c.bg_transparent></c.traditionalchinese>
+
+395
+00:25:45,120 --> 00:25:47,120
+<c.traditionalchinese><c.bg_transparent>我還是會在這裡閱讀</c.bg_transparent></c.traditionalchinese>
+
+396
+00:25:47,960 --> 00:25:51,360
+<c.traditionalchinese><c.bg_transparent>傾聽，並向你們每個人學習</c.bg_transparent></c.traditionalchinese>
+
+397
+00:25:52,400 --> 00:25:56,480
+<c.traditionalchinese><c.bg_transparent>讓我們繼續發展我們的理念</c.bg_transparent>
+<c.bg_transparent>加上主題標籤，過健康的生活</c.bg_transparent></c.traditionalchinese>
+
+398
+00:25:56,560 --> 00:26:00,840
+<c.traditionalchinese><c.bg_transparent>共同致力於推出我們的第一本書</c.bg_transparent></c.traditionalchinese>
+
+399
+00:26:01,880 --> 00:26:02,720
+<c.traditionalchinese><c.bg_transparent>好耶！</c.bg_transparent></c.traditionalchinese>
+
+400
+00:26:04,440 --> 00:26:07,360
+<c.traditionalchinese><c.bg_transparent>確保我們的慈善事業</c.bg_transparent></c.traditionalchinese>
+
+401
+00:26:07,440 --> 00:26:12,000
+<c.traditionalchinese><c.bg_transparent>與社區工作的傑出貢獻</c.bg_transparent>
+<c.bg_transparent>可以綿延到數百年之後</c.bg_transparent></c.traditionalchinese>
+
+402
+00:26:12,840 --> 00:26:14,040
+<c.traditionalchinese><c.bg_transparent>接下來的一個月</c.bg_transparent></c.traditionalchinese>
+
+403
+00:26:14,760 --> 00:26:19,320
+<c.traditionalchinese><c.bg_transparent>我會捐出公司95%的總收入</c.bg_transparent>
+<c.bg_transparent>給尋求庇護者資源中心</c.bg_transparent></c.traditionalchinese>
+
+404
+00:26:19,400 --> 00:26:20,440
+<c.traditionalchinese><c.bg_transparent>（成為定期捐款人）</c.bg_transparent></c.traditionalchinese>
+
+405
+00:26:20,520 --> 00:26:21,960
+<c.traditionalchinese><c.bg_transparent>布米塞哈特基金會</c.bg_transparent></c.traditionalchinese>
+
+406
+00:26:22,040 --> 00:26:23,240
+<c.traditionalchinese><c.bg_transparent>（立刻捐款）</c.bg_transparent></c.traditionalchinese>
+
+407
+00:26:23,320 --> 00:26:25,320
+<c.traditionalchinese><c.bg_transparent>獨立女孩基金會</c.bg_transparent></c.traditionalchinese>
+
+408
+00:26:25,400 --> 00:26:29,800
+<c.traditionalchinese><c.bg_transparent>以及杭特克羅斯與克羅斯一家</c.bg_transparent>
+<c.bg_transparent>讓他們進行續命手術</c.bg_transparent></c.traditionalchinese>
+
+409
+00:26:29,880 --> 00:26:31,360
+<c.traditionalchinese><c.bg_transparent>（幫助杭特動續命的腦部手術）</c.bg_transparent></c.traditionalchinese>
+
+410
+00:26:35,400 --> 00:26:37,040
+<c.traditionalchinese><c.bg_transparent>感謝你們的支持</c.bg_transparent></c.traditionalchinese>
+
+411
+00:26:38,040 --> 00:26:42,360
+<c.traditionalchinese><c.bg_transparent>對我意義重大</c.bg_transparent>
+<c.bg_transparent>但請不要承擔我的痛苦</c.bg_transparent></c.traditionalchinese>
+
+412
+00:26:43,640 --> 00:26:45,560
+<c.traditionalchinese><c.bg_transparent>我自己挺得住</c.bg_transparent></c.traditionalchinese>
+
+413
+00:26:46,440 --> 00:26:48,400
+<c.traditionalchinese><c.bg_transparent>愛你們，貝兒留</c.bg_transparent></c.traditionalchinese>
+
+414
+00:26:50,240 --> 00:26:51,080
+<c.traditionalchinese><c.bg_transparent>親親</c.bg_transparent></c.traditionalchinese>
+
+415
+00:26:52,520 --> 00:26:53,360
+<c.traditionalchinese><c.bg_transparent>親親</c.bg_transparent></c.traditionalchinese>
+
+416
+00:27:05,840 --> 00:27:08,600
+<c.traditionalchinese><c.bg_transparent>貼文得到九萬個讚</c.bg_transparent></c.traditionalchinese>
+
+417
+00:27:08,680 --> 00:27:10,360
+<c.traditionalchinese><c.bg_transparent>她才沒有脾臟癌</c.bg_transparent></c.traditionalchinese>
+
+418
+00:27:11,280 --> 00:27:13,840
+<c.traditionalchinese><c.bg_transparent>粉紅氣球</c.bg_transparent>
+<c.bg_transparent>是她從我的徹底自愛活動中學的</c.bg_transparent></c.traditionalchinese>
+
+419
+00:27:15,120 --> 00:27:16,680
+<c.traditionalchinese><c.bg_transparent>要是我戳破她，大家都會相信</c.bg_transparent></c.traditionalchinese>
+
+420
+00:27:16,760 --> 00:27:19,960
+<c.traditionalchinese><c.bg_transparent>-我早該這麼做了</c.bg_transparent>
+<c.bg_transparent>-小蜜，不知道，我覺得不該由你做</c.bg_transparent></c.traditionalchinese>
+
+421
+00:27:20,040 --> 00:27:24,720
+<c.traditionalchinese><c.bg_transparent>我不在乎我是不是顯得沒器量</c.bg_transparent>
+<c.bg_transparent>她不能繼續說謊，太危險了</c.bg_transparent></c.traditionalchinese>
+
+422
+00:28:10,280 --> 00:28:11,640
+<c.traditionalchinese><c.bg_transparent>嗨，喔</c.bg_transparent></c.traditionalchinese>
+
+423
+00:28:13,320 --> 00:28:14,320
+<c.traditionalchinese><c.bg_transparent>那個…</c.bg_transparent></c.traditionalchinese>
+
+424
+00:28:15,000 --> 00:28:17,600
+<c.traditionalchinese><c.bg_transparent>蜜拉？是打錯了嗎？</c.bg_transparent></c.traditionalchinese>
+
+425
+00:28:19,640 --> 00:28:21,920
+<c.traditionalchinese><c.bg_transparent>喔，你好</c.bg_transparent></c.traditionalchinese>
+
+426
+00:28:22,840 --> 00:28:24,120
+<c.traditionalchinese><c.bg_transparent>我很…</c.bg_transparent></c.traditionalchinese>
+
+427
+00:28:24,200 --> 00:28:26,120
+<c.traditionalchinese><c.bg_transparent>你母親的事我很遺憾</c.bg_transparent></c.traditionalchinese>
+
+428
+00:28:26,200 --> 00:28:28,200
+<c.traditionalchinese><c.bg_transparent>很遺憾聽到你得多重癌症的消息</c.bg_transparent></c.traditionalchinese>
+
+429
+00:28:28,880 --> 00:28:31,480
+<c.traditionalchinese><c.bg_transparent>謝謝，我只是…</c.bg_transparent></c.traditionalchinese>
+
+430
+00:28:33,120 --> 00:28:36,080
+<c.traditionalchinese><c.bg_transparent>這表示我可能得離開健康廚坊的營運</c.bg_transparent></c.traditionalchinese>
+
+431
+00:28:36,160 --> 00:28:38,960
+<c.traditionalchinese><c.bg_transparent>但你在這個領域做得很好</c.bg_transparent></c.traditionalchinese>
+
+432
+00:28:39,560 --> 00:28:41,080
+<c.traditionalchinese><c.bg_transparent>你這次的症狀怎麼樣？</c.bg_transparent></c.traditionalchinese>
+
+433
+00:28:42,920 --> 00:28:45,520
+<c.traditionalchinese><c.bg_transparent>我可能會再試試赫希療法</c.bg_transparent></c.traditionalchinese>
+
+434
+00:28:46,120 --> 00:28:49,920
+<c.traditionalchinese><c.bg_transparent>說不定會去診所</c.bg_transparent>
+<c.bg_transparent>我很想聽聽你的建議</c.bg_transparent></c.traditionalchinese>
+
+435
+00:28:50,000 --> 00:28:53,400
+<c.traditionalchinese><c.bg_transparent>也許我們可以一起去，同住一個房間</c.bg_transparent></c.traditionalchinese>
+
+436
+00:28:54,000 --> 00:28:56,200
+<c.traditionalchinese><c.bg_transparent>對，你可以幫我灌腸</c.bg_transparent></c.traditionalchinese>
+
+437
+00:28:57,400 --> 00:28:58,400
+<c.traditionalchinese><c.bg_transparent>我不知道</c.bg_transparent></c.traditionalchinese>
+
+438
+00:28:59,800 --> 00:29:02,480
+<c.traditionalchinese><c.bg_transparent>等你清空體內的廢物，還剩下什麼？</c.bg_transparent></c.traditionalchinese>
+
+439
+00:29:11,880 --> 00:29:14,000
+<c.traditionalchinese><c.bg_transparent>不管怎樣，也許你都應該去一趟</c.bg_transparent></c.traditionalchinese>
+
+440
+00:29:14,080 --> 00:29:15,840
+<c.traditionalchinese><c.bg_transparent>我聽說你的手臂…</c.bg_transparent></c.traditionalchinese>
+
+441
+00:29:17,000 --> 00:29:17,960
+<c.traditionalchinese><c.bg_transparent>千瘡百孔</c.bg_transparent></c.traditionalchinese>
+
+442
+00:29:19,760 --> 00:29:21,160
+<c.traditionalchinese><c.bg_transparent>網路上都這麼傳</c.bg_transparent></c.traditionalchinese>
+
+443
+00:29:21,920 --> 00:29:25,800
+<c.traditionalchinese><c.bg_transparent>在Reddit論壇上有一整串討論話題</c.bg_transparent>
+<c.bg_transparent>你看過影片了嗎？</c.bg_transparent></c.traditionalchinese>
+
+444
+00:29:26,720 --> 00:29:28,000
+<c.traditionalchinese><c.bg_transparent>網友真可怕</c.bg_transparent></c.traditionalchinese>
+
+445
+00:29:50,160 --> 00:29:54,080
+<c.traditionalchinese><c.bg_transparent>（我覺得你應該看看</c.bg_transparent>
+<c.bg_transparent>親親，貝兒留）</c.bg_transparent></c.traditionalchinese>
+
+446
+00:29:54,680 --> 00:29:58,200
+<c.traditionalchinese><c.bg_transparent>如果你們自稱是有機食物</c.bg_transparent>
+<c.bg_transparent>而且收取相應的費用</c.bg_transparent></c.traditionalchinese>
+
+447
+00:29:58,280 --> 00:30:01,320
+<c.traditionalchinese><c.bg_transparent>我們就應該要能相信</c.bg_transparent>
+<c.bg_transparent>你們提供的食物完全有機</c.bg_transparent></c.traditionalchinese>
+
+448
+00:30:01,400 --> 00:30:04,880
+<c.traditionalchinese><c.bg_transparent>這是不實廣告，等同於漂綠行為</c.bg_transparent></c.traditionalchinese>
+
+449
+00:30:04,960 --> 00:30:06,840
+<c.traditionalchinese><c.bg_transparent>-小蜜，能不能…</c.bg_transparent>
+<c.bg_transparent>-別噓我！</c.bg_transparent></c.traditionalchinese>
+
+450
+00:30:06,920 --> 00:30:09,960
+<c.traditionalchinese><c.bg_transparent>他們對我下毒，你覺得沒關係嗎？</c.bg_transparent></c.traditionalchinese>
+
+451
+00:30:19,600 --> 00:30:23,120
+<c.traditionalchinese><c.bg_transparent>-我的天，那個腫塊好可怕</c.bg_transparent>
+<c.bg_transparent>-她需要盡快去看醫生</c.bg_transparent></c.traditionalchinese>
+
+452
+00:30:23,200 --> 00:30:25,280
+<c.traditionalchinese><c.bg_transparent>-她媽媽不是剛過世嗎？</c.bg_transparent>
+<c.bg_transparent>-受不了這麼高傲</c.bg_transparent></c.traditionalchinese>
+
+453
+00:30:25,360 --> 00:30:27,400
+<c.traditionalchinese><c.bg_transparent>散播虛假廣告的人是她吧</c.bg_transparent></c.traditionalchinese>
+
+454
+00:30:27,480 --> 00:30:29,600
+<c.traditionalchinese><c.bg_transparent>-有機飲食怪胎…</c.bg_transparent>
+<c.bg_transparent>-該死的網紅</c.bg_transparent></c.traditionalchinese>
+
+455
+00:30:29,680 --> 00:30:31,520
+<c.traditionalchinese><c.bg_transparent>清醒一點，說真的</c.bg_transparent></c.traditionalchinese>
+
+456
+00:30:32,040 --> 00:30:33,360
+<c.traditionalchinese><c.bg_transparent>她媽媽剛死於癌症</c.bg_transparent></c.traditionalchinese>
+
+457
+00:30:33,440 --> 00:30:35,440
+<c.traditionalchinese><c.bg_transparent>得癌症不代表你有權利無禮</c.bg_transparent></c.traditionalchinese>
+
+458
+00:30:35,520 --> 00:30:37,400
+<c.traditionalchinese><c.bg_transparent>-受不了這麼高傲</c.bg_transparent>
+<c.bg_transparent>-噁心</c.bg_transparent></c.traditionalchinese>
+
+459
+00:30:37,480 --> 00:30:40,080
+<c.traditionalchinese><c.bg_transparent>-取消追蹤、封鎖、刪除</c.bg_transparent>
+<c.bg_transparent>-她需要去看醫生</c.bg_transparent></c.traditionalchinese>
+
+460
+00:30:40,160 --> 00:30:42,560
+<c.traditionalchinese><c.bg_transparent>看看這個婆娘</c.bg_transparent>
+<c.bg_transparent>因為吃素漢堡情緒大暴走</c.bg_transparent></c.traditionalchinese>
+
+461
+00:30:42,640 --> 00:30:43,960
+<c.traditionalchinese><c.bg_transparent>一片生菜不會…</c.bg_transparent></c.traditionalchinese>
+
+462
+00:30:44,040 --> 00:30:46,640
+<c.traditionalchinese><c.bg_transparent>-聽她這麼說應該活不了多久</c.bg_transparent>
+<c.bg_transparent>-她瘋了</c.bg_transparent></c.traditionalchinese>
+
+463
+00:30:46,720 --> 00:30:48,000
+<c.traditionalchinese><c.bg_transparent>她真的失去理智了</c.bg_transparent></c.traditionalchinese>
+
+464
+00:30:48,080 --> 00:30:51,040
+<c.traditionalchinese><c.bg_transparent>-天啊，真是個神經病</c.bg_transparent>
+<c.bg_transparent>-可恥，世人不會想念你</c.bg_transparent></c.traditionalchinese>
+
+465
+00:30:51,120 --> 00:30:54,160
+<c.traditionalchinese><c.bg_transparent>我聽說她的手臂滿滿都是</c.bg_transparent>
+<c.bg_transparent>癌症已經失控了</c.bg_transparent></c.traditionalchinese>
+
+466
+00:30:54,240 --> 00:30:58,040
+<c.traditionalchinese><c.bg_transparent>-癌細胞一定擴散到她的腦部了</c.bg_transparent>
+<c.bg_transparent>-她要害死多少人…</c.bg_transparent></c.traditionalchinese>
+
+467
+00:31:13,240 --> 00:31:14,120
+<c.traditionalchinese><c.bg_transparent>爸？</c.bg_transparent></c.traditionalchinese>
+
+468
+00:31:19,200 --> 00:31:20,520
+<c.traditionalchinese><c.bg_transparent>爸？</c.bg_transparent></c.traditionalchinese>
+
+469
+00:31:20,600 --> 00:31:21,680
+<c.traditionalchinese><c.bg_transparent>我在這裡！</c.bg_transparent></c.traditionalchinese>
+
+470
+00:31:31,680 --> 00:31:33,200
+<c.traditionalchinese><c.bg_transparent>水管壞了</c.bg_transparent></c.traditionalchinese>
+
+471
+00:31:33,280 --> 00:31:36,920
+<c.traditionalchinese><c.bg_transparent>還用不到五年，垃圾東西</c.bg_transparent></c.traditionalchinese>
+
+472
+00:31:43,360 --> 00:31:44,920
+<c.traditionalchinese><c.bg_transparent>爸，看著我</c.bg_transparent></c.traditionalchinese>
+
+473
+00:32:05,920 --> 00:32:06,960
+<c.traditionalchinese><c.bg_transparent>對不起</c.bg_transparent></c.traditionalchinese>
+
+474
+00:32:08,520 --> 00:32:09,440
+<c.traditionalchinese><c.bg_transparent>真的很抱歉</c.bg_transparent></c.traditionalchinese>
+
+475
+00:32:12,160 --> 00:32:13,960
+<c.traditionalchinese><c.bg_transparent>她為什麼要聽我的？</c.bg_transparent></c.traditionalchinese>
+
+476
+00:32:15,880 --> 00:32:17,440
+<c.traditionalchinese><c.bg_transparent>對不起</c.bg_transparent></c.traditionalchinese>
+
+477
+00:32:18,760 --> 00:32:19,960
+<c.traditionalchinese><c.bg_transparent>真的很抱歉</c.bg_transparent></c.traditionalchinese>
+
+478
+00:32:26,000 --> 00:32:28,520
+<c.traditionalchinese><c.bg_transparent>-對不起</c.bg_transparent>
+<c.bg_transparent>-過來，親愛的</c.bg_transparent></c.traditionalchinese>
+
+479
+00:32:34,520 --> 00:32:35,760
+<c.traditionalchinese><c.bg_transparent>對不起</c.bg_transparent></c.traditionalchinese>
+
+480
+00:32:39,360 --> 00:32:41,920
+<c.traditionalchinese><c.bg_transparent>她為什麼要聽？</c.bg_transparent></c.traditionalchinese>
+
+481
+00:32:42,520 --> 00:32:44,680
+<c.traditionalchinese><c.bg_transparent>我不想死</c.bg_transparent></c.traditionalchinese>
+
+482
+00:32:45,720 --> 00:32:47,560
+<c.traditionalchinese><c.bg_transparent>我不想死</c.bg_transparent></c.traditionalchinese>
+
+483
+00:32:59,120 --> 00:33:01,040
+<c.traditionalchinese><c.bg_transparent>我一直從各個角度思考</c.bg_transparent></c.traditionalchinese>
+
+484
+00:33:01,120 --> 00:33:04,720
+<c.traditionalchinese><c.bg_transparent>客觀上來說，我認為拿掉癌症元素</c.bg_transparent>
+<c.bg_transparent>這本書會更有鏗鏘有力</c.bg_transparent></c.traditionalchinese>
+
+485
+00:33:05,320 --> 00:33:07,000
+<c.traditionalchinese><c.bg_transparent>更兼容並蓄</c.bg_transparent></c.traditionalchinese>
+
+486
+00:33:07,080 --> 00:33:09,400
+<c.traditionalchinese><c.bg_transparent>你不必得癌症才希望活得健康</c.bg_transparent></c.traditionalchinese>
+
+487
+00:33:11,840 --> 00:33:15,520
+<c.traditionalchinese><c.bg_transparent>我受夠癌症了，我們換一個故事吧</c.bg_transparent></c.traditionalchinese>
+
+488
+00:33:15,600 --> 00:33:18,160
+<c.traditionalchinese><c.bg_transparent>親愛的，我看到你的發文時</c.bg_transparent>
+<c.bg_transparent>我的心都碎了</c.bg_transparent></c.traditionalchinese>
+
+489
+00:33:18,240 --> 00:33:20,920
+<c.traditionalchinese><c.bg_transparent>-我應該提早打給你的</c.bg_transparent>
+<c.bg_transparent>-大概吧</c.bg_transparent></c.traditionalchinese>
+
+490
+00:33:21,000 --> 00:33:24,200
+<c.traditionalchinese><c.bg_transparent>最近外面傳言四起</c.bg_transparent>
+<c.bg_transparent>我不能一直欺騙大眾</c.bg_transparent></c.traditionalchinese>
+
+491
+00:33:24,280 --> 00:33:27,240
+<c.traditionalchinese><c.bg_transparent>假裝一切都很好</c.bg_transparent>
+<c.bg_transparent>實際上我的身體正遭受攻擊</c.bg_transparent></c.traditionalchinese>
+
+492
+00:33:28,040 --> 00:33:30,240
+<c.traditionalchinese><c.bg_transparent>我知道那段貼文會衝擊到這本書</c.bg_transparent></c.traditionalchinese>
+
+493
+00:33:30,320 --> 00:33:32,080
+<c.traditionalchinese><c.bg_transparent>我比較擔心你</c.bg_transparent></c.traditionalchinese>
+
+494
+00:33:32,160 --> 00:33:34,840
+<c.traditionalchinese><c.bg_transparent>謝謝，但從務實面來看</c.bg_transparent>
+<c.bg_transparent>就外界的觀感</c.bg_transparent></c.traditionalchinese>
+
+495
+00:33:35,440 --> 00:33:38,320
+<c.traditionalchinese><c.bg_transparent>書裡的食譜沒有治好我的癌症</c.bg_transparent></c.traditionalchinese>
+
+496
+00:33:38,400 --> 00:33:40,920
+<c.traditionalchinese><c.bg_transparent>我的病情加劇了，這是個問題</c.bg_transparent></c.traditionalchinese>
+
+497
+00:33:41,520 --> 00:33:43,760
+<c.traditionalchinese><c.bg_transparent>所以我想拿掉書裡所有的癌症字眼</c.bg_transparent></c.traditionalchinese>
+
+498
+00:33:45,120 --> 00:33:48,080
+<c.traditionalchinese><c.bg_transparent>阿寶，去看看他們在地下室</c.bg_transparent>
+<c.bg_transparent>準備好了沒？</c.bg_transparent></c.traditionalchinese>
+
+499
+00:33:48,160 --> 00:33:49,400
+<c.traditionalchinese><c.bg_transparent>不，讓她留下來</c.bg_transparent></c.traditionalchinese>
+
+500
+00:33:49,480 --> 00:33:51,480
+<c.traditionalchinese><c.bg_transparent>阿寶，我很想聽聽你的意見</c.bg_transparent></c.traditionalchinese>
+
+501
+00:33:51,560 --> 00:33:55,720
+<c.traditionalchinese><c.bg_transparent>如果書名改成</c.bg_transparent>
+<c.bg_transparent>健康廚坊出版的《健康廚坊》呢？</c.bg_transparent></c.traditionalchinese>
+
+502
+00:33:57,320 --> 00:33:59,800
+<c.traditionalchinese><c.bg_transparent>把你的名字拿掉嗎？</c.bg_transparent></c.traditionalchinese>
+
+503
+00:33:59,880 --> 00:34:02,000
+<c.traditionalchinese><c.bg_transparent>沒錯，對</c.bg_transparent></c.traditionalchinese>
+
+504
+00:34:02,080 --> 00:34:05,360
+<c.traditionalchinese><c.bg_transparent>-我不需要凸顯自我</c.bg_transparent>
+<c.bg_transparent>-聽著，別忘了</c.bg_transparent></c.traditionalchinese>
+
+505
+00:34:05,440 --> 00:34:09,080
+<c.traditionalchinese><c.bg_transparent>我們買烹飪書不是為了食譜</c.bg_transparent>
+<c.bg_transparent>而是為了背後的故事</c.bg_transparent></c.traditionalchinese>
+
+506
+00:34:09,160 --> 00:34:11,800
+<c.traditionalchinese><c.bg_transparent>《健康廚坊》講述了一個故事</c.bg_transparent></c.traditionalchinese>
+
+507
+00:34:11,880 --> 00:34:14,040
+<c.traditionalchinese><c.bg_transparent>關於蛻變與希望</c.bg_transparent></c.traditionalchinese>
+
+508
+00:34:15,360 --> 00:34:18,920
+<c.traditionalchinese><c.bg_transparent>你這個年輕的單親媽媽戰勝了癌症</c.bg_transparent></c.traditionalchinese>
+
+509
+00:34:19,000 --> 00:34:21,200
+<c.traditionalchinese><c.bg_transparent>但我沒有戰勝，又復發了</c.bg_transparent></c.traditionalchinese>
+
+510
+00:34:22,040 --> 00:34:23,520
+<c.traditionalchinese><c.bg_transparent>你戰勝過一段時間</c.bg_transparent></c.traditionalchinese>
+
+511
+00:34:24,360 --> 00:34:26,200
+<c.traditionalchinese><c.bg_transparent>現在你正在跟病魔對抗</c.bg_transparent></c.traditionalchinese>
+
+512
+00:34:26,280 --> 00:34:28,840
+<c.traditionalchinese><c.bg_transparent>投入全身心、勇敢地與之對抗</c.bg_transparent></c.traditionalchinese>
+
+513
+00:34:28,920 --> 00:34:31,600
+<c.traditionalchinese><c.bg_transparent>你的故事還沒完結，這不要緊</c.bg_transparent></c.traditionalchinese>
+
+514
+00:34:33,160 --> 00:34:34,000
+<c.traditionalchinese><c.bg_transparent>我們可以這麼說</c.bg_transparent></c.traditionalchinese>
+
+515
+00:34:34,880 --> 00:34:36,760
+<c.traditionalchinese><c.bg_transparent>我們準備好了</c.bg_transparent></c.traditionalchinese>
+
+516
+00:34:38,200 --> 00:34:43,280
+<c.traditionalchinese><c.bg_transparent>來認識一下貝兒吉柏森</c.bg_transparent>
+<c.bg_transparent>澳洲數一數二不凡的成功故事</c.bg_transparent></c.traditionalchinese>
+
+517
+00:34:43,360 --> 00:34:44,920
+<c.traditionalchinese><c.bg_transparent>茱兒，聽起來有點遜</c.bg_transparent></c.traditionalchinese>
+
+518
+00:34:45,000 --> 00:34:47,440
+<c.traditionalchinese><c.bg_transparent>我知道，但這只是方便我們倒回去看</c.bg_transparent></c.traditionalchinese>
+
+519
+00:34:47,520 --> 00:34:49,240
+<c.traditionalchinese><c.bg_transparent>做些功課，調整一下</c.bg_transparent></c.traditionalchinese>
+
+520
+00:34:49,320 --> 00:34:52,320
+<c.traditionalchinese><c.bg_transparent>替未來一般訪談的各類問題做準備</c.bg_transparent></c.traditionalchinese>
+
+521
+00:34:52,400 --> 00:34:55,120
+<c.traditionalchinese><c.bg_transparent>好吧，我又不是沒接受過採訪</c.bg_transparent></c.traditionalchinese>
+
+522
+00:34:55,200 --> 00:34:58,720
+<c.traditionalchinese><c.bg_transparent>我知道，但你沒碰過</c.bg_transparent>
+<c.bg_transparent>一心只想扒糞的調查記者</c.bg_transparent></c.traditionalchinese>
+
+523
+00:34:58,800 --> 00:35:02,280
+<c.traditionalchinese><c.bg_transparent>你也知道他們是什麼德性</c.bg_transparent>
+<c.bg_transparent>想盡辦法無情地挖挖挖</c.bg_transparent></c.traditionalchinese>
+
+524
+00:35:02,920 --> 00:35:05,720
+<c.traditionalchinese><c.bg_transparent>茱兒，那是誰？我們還沒見過面</c.bg_transparent></c.traditionalchinese>
+
+525
+00:35:06,720 --> 00:35:11,040
+<c.traditionalchinese><c.bg_transparent>那是麥可，我的朋友</c.bg_transparent>
+<c.bg_transparent>他是業餘偵探，喜歡埋首在網海中</c.bg_transparent></c.traditionalchinese>
+
+526
+00:35:11,640 --> 00:35:13,360
+<c.traditionalchinese><c.bg_transparent>嗨，你好嗎？</c.bg_transparent></c.traditionalchinese>
+
+527
+00:35:13,440 --> 00:35:16,560
+<c.traditionalchinese><c.bg_transparent>我請他盡可能收集關於你的一切</c.bg_transparent></c.traditionalchinese>
+
+528
+00:35:16,640 --> 00:35:18,120
+<c.traditionalchinese><c.bg_transparent>任何公開紀錄的資訊</c.bg_transparent></c.traditionalchinese>
+
+529
+00:35:19,760 --> 00:35:21,280
+<c.traditionalchinese><c.bg_transparent>一點都不詭異呢</c.bg_transparent></c.traditionalchinese>
+
+530
+00:35:22,360 --> 00:35:24,960
+<c.traditionalchinese><c.bg_transparent>我知道，我們想未雨綢繆</c.bg_transparent></c.traditionalchinese>
+
+531
+00:35:25,040 --> 00:35:28,960
+<c.traditionalchinese><c.bg_transparent>所以我現在會丟出一大堆問題</c.bg_transparent></c.traditionalchinese>
+
+532
+00:35:29,040 --> 00:35:32,880
+<c.traditionalchinese><c.bg_transparent>有些你可能不喜歡</c.bg_transparent>
+<c.bg_transparent>但沒關係，因為這裡只有我們</c.bg_transparent></c.traditionalchinese>
+
+533
+00:35:32,960 --> 00:35:33,800
+<c.traditionalchinese><c.bg_transparent>好的</c.bg_transparent></c.traditionalchinese>
+
+534
+00:35:33,880 --> 00:35:36,120
+<c.traditionalchinese><c.bg_transparent>我們會幫忙你想好說詞</c.bg_transparent></c.traditionalchinese>
+
+535
+00:35:36,640 --> 00:35:37,880
+<c.traditionalchinese><c.bg_transparent>那個…</c.bg_transparent></c.traditionalchinese>
+
+536
+00:35:39,160 --> 00:35:41,040
+<c.traditionalchinese><c.bg_transparent>這些燈光和…</c.bg_transparent></c.traditionalchinese>
+
+537
+00:35:41,960 --> 00:35:43,720
+<c.traditionalchinese><c.bg_transparent>有人有諾洛芬止痛藥嗎？</c.bg_transparent></c.traditionalchinese>
+
+538
+00:35:43,800 --> 00:35:45,600
+<c.traditionalchinese><c.bg_transparent>阿寶，拿諾洛芬來給貝兒好嗎？</c.bg_transparent></c.traditionalchinese>
+
+539
+00:35:45,680 --> 00:35:49,800
+<c.traditionalchinese><c.bg_transparent>-麻煩你了</c.bg_transparent>
+<c.bg_transparent>-好了，先從基本的問題開始</c.bg_transparent></c.traditionalchinese>
+
+540
+00:35:49,880 --> 00:35:51,800
+<c.traditionalchinese><c.bg_transparent>好的</c.bg_transparent></c.traditionalchinese>
+
+541
+00:35:52,400 --> 00:35:53,960
+<c.traditionalchinese><c.bg_transparent>我最喜歡的顏色是藍色</c.bg_transparent></c.traditionalchinese>
+
+542
+00:35:54,600 --> 00:35:56,680
+<c.traditionalchinese><c.bg_transparent>我的太陽在天秤，上升星座是摩羯</c.bg_transparent></c.traditionalchinese>
+
+543
+00:35:57,480 --> 00:36:00,800
+<c.traditionalchinese><c.bg_transparent>-好的，你幾歲？</c.bg_transparent>
+<c.bg_transparent>-26歲</c.bg_transparent></c.traditionalchinese>
+
+544
+00:36:00,880 --> 00:36:02,600
+<c.traditionalchinese><c.bg_transparent>所以你出生於…</c.bg_transparent></c.traditionalchinese>
+
+545
+00:36:03,120 --> 00:36:05,480
+<c.traditionalchinese><c.bg_transparent>1988年10月8日</c.bg_transparent></c.traditionalchinese>
+
+546
+00:36:05,560 --> 00:36:09,560
+<c.traditionalchinese><c.bg_transparent>所以不是1991年？因為麥可說</c.bg_transparent>
+<c.bg_transparent>有時候會出現奇怪的差異</c.bg_transparent></c.traditionalchinese>
+
+547
+00:36:09,640 --> 00:36:10,800
+<c.traditionalchinese><c.bg_transparent>我知道</c.bg_transparent></c.traditionalchinese>
+
+548
+00:36:10,880 --> 00:36:14,080
+<c.traditionalchinese><c.bg_transparent>他們有一次印錯了，結果一錯再錯</c.bg_transparent></c.traditionalchinese>
+
+549
+00:36:14,600 --> 00:36:17,360
+<c.traditionalchinese><c.bg_transparent>好吧，所以你在布里斯本長大</c.bg_transparent></c.traditionalchinese>
+
+550
+00:36:17,440 --> 00:36:20,840
+<c.traditionalchinese><c.bg_transparent>-沒錯</c.bg_transparent>
+<c.bg_transparent>-是哪個郊區？</c.bg_transparent></c.traditionalchinese>
+
+551
+00:36:22,760 --> 00:36:25,440
+<c.traditionalchinese><c.bg_transparent>我不太想說</c.bg_transparent></c.traditionalchinese>
+
+552
+00:36:26,040 --> 00:36:27,520
+<c.traditionalchinese><c.bg_transparent>我媽還住在那裡</c.bg_transparent></c.traditionalchinese>
+
+553
+00:36:28,120 --> 00:36:32,080
+<c.traditionalchinese><c.bg_transparent>我想問你關於你媽媽娜塔莉的事</c.bg_transparent></c.traditionalchinese>
+
+554
+00:36:32,160 --> 00:36:35,960
+<c.traditionalchinese><c.bg_transparent>謝謝，就是…她…</c.bg_transparent></c.traditionalchinese>
+
+555
+00:36:37,200 --> 00:36:40,640
+<c.traditionalchinese><c.bg_transparent>她是單親媽媽，有自己的健康問題</c.bg_transparent></c.traditionalchinese>
+
+556
+00:36:41,680 --> 00:36:43,440
+<c.traditionalchinese><c.bg_transparent>她盡力了</c.bg_transparent></c.traditionalchinese>
+
+557
+00:36:44,160 --> 00:36:46,760
+<c.traditionalchinese><c.bg_transparent>你有受到虐待嗎？</c.bg_transparent></c.traditionalchinese>
+
+558
+00:36:47,280 --> 00:36:50,160
+<c.traditionalchinese><c.bg_transparent>你12歲的時候逃家了</c.bg_transparent></c.traditionalchinese>
+
+559
+00:36:51,840 --> 00:36:52,720
+<c.traditionalchinese><c.bg_transparent>嗯…</c.bg_transparent></c.traditionalchinese>
+
+560
+00:36:53,680 --> 00:36:54,920
+<c.traditionalchinese><c.bg_transparent>我從沒這麼說過</c.bg_transparent></c.traditionalchinese>
+
+561
+00:36:56,480 --> 00:37:00,040
+<c.traditionalchinese><c.bg_transparent>這樣啊，麥可在臉書上找到的</c.bg_transparent></c.traditionalchinese>
+
+562
+00:37:00,840 --> 00:37:04,680
+<c.traditionalchinese><c.bg_transparent>-我可以看一下嗎？</c.bg_transparent>
+<c.bg_transparent>-天啊，資料都都亂了</c.bg_transparent></c.traditionalchinese>
+
+563
+00:37:04,760 --> 00:37:06,520
+<c.traditionalchinese><c.bg_transparent>所以你有逃家嗎？</c.bg_transparent></c.traditionalchinese>
+
+564
+00:37:08,080 --> 00:37:09,320
+<c.traditionalchinese><c.bg_transparent>-出什麼事？</c.bg_transparent>
+<c.bg_transparent>-你還好嗎？</c.bg_transparent></c.traditionalchinese>
+
+565
+00:37:09,920 --> 00:37:11,440
+<c.traditionalchinese><c.bg_transparent>我搬出去</c.bg_transparent></c.traditionalchinese>
+
+566
+00:37:12,040 --> 00:37:13,120
+<c.traditionalchinese><c.bg_transparent>不一樣</c.bg_transparent></c.traditionalchinese>
+
+567
+00:37:13,200 --> 00:37:16,480
+<c.traditionalchinese><c.bg_transparent>但年僅12歲，天啊，貝兒</c.bg_transparent></c.traditionalchinese>
+
+568
+00:37:16,560 --> 00:37:18,720
+<c.traditionalchinese><c.bg_transparent>你那麼年幼，無法照顧自己</c.bg_transparent></c.traditionalchinese>
+
+569
+00:37:18,800 --> 00:37:20,200
+<c.traditionalchinese><c.bg_transparent>你的血檢報告出來了</c.bg_transparent></c.traditionalchinese>
+
+570
+00:37:20,280 --> 00:37:24,760
+<c.traditionalchinese><c.bg_transparent>我們找不到任何醫學理由</c.bg_transparent>
+<c.bg_transparent>能解釋你的胸痛和呼吸急促</c.bg_transparent></c.traditionalchinese>
+
+571
+00:37:25,680 --> 00:37:27,200
+<c.traditionalchinese><c.bg_transparent>有人能帶你回家嗎？</c.bg_transparent></c.traditionalchinese>
+
+572
+00:37:29,480 --> 00:37:31,720
+<c.traditionalchinese><c.bg_transparent>再繞回你媽媽的問題</c.bg_transparent></c.traditionalchinese>
+
+573
+00:37:31,800 --> 00:37:36,040
+<c.traditionalchinese><c.bg_transparent>我釐清一下</c.bg_transparent>
+<c.bg_transparent>所以你不是半夜逃跑之類的？</c.bg_transparent></c.traditionalchinese>
+
+574
+00:37:36,120 --> 00:37:37,640
+<c.traditionalchinese><c.bg_transparent>不，當然不是</c.bg_transparent></c.traditionalchinese>
+
+575
+00:37:37,720 --> 00:37:40,240
+<c.traditionalchinese><c.bg_transparent>媽媽憂鬱症發作</c.bg_transparent></c.traditionalchinese>
+
+576
+00:37:40,840 --> 00:37:42,760
+<c.traditionalchinese><c.bg_transparent>我只是需要保持一點距離</c.bg_transparent></c.traditionalchinese>
+
+577
+00:37:43,360 --> 00:37:44,720
+<c.traditionalchinese><c.bg_transparent>你去哪了？</c.bg_transparent></c.traditionalchinese>
+
+578
+00:37:44,800 --> 00:37:48,560
+<c.traditionalchinese><c.bg_transparent>醫院，醫生認為</c.bg_transparent>
+<c.bg_transparent>我可能需要動心臟手術</c.bg_transparent></c.traditionalchinese>
+
+579
+00:37:50,600 --> 00:37:51,800
+<c.traditionalchinese><c.bg_transparent>媽，我生病了</c.bg_transparent></c.traditionalchinese>
+
+580
+00:37:52,320 --> 00:37:53,720
+<c.traditionalchinese><c.bg_transparent>你看起來沒病</c.bg_transparent></c.traditionalchinese>
+
+581
+00:38:00,280 --> 00:38:02,040
+<c.traditionalchinese><c.bg_transparent>你跟誰住？</c.bg_transparent></c.traditionalchinese>
+
+582
+00:38:02,720 --> 00:38:08,520
+<c.traditionalchinese><c.bg_transparent>一開始是看學校的女同學誰方便</c.bg_transparent></c.traditionalchinese>
+
+583
+00:38:08,600 --> 00:38:11,800
+<c.traditionalchinese><c.bg_transparent>後來投靠我工作場合的主管</c.bg_transparent></c.traditionalchinese>
+
+584
+00:38:16,440 --> 00:38:18,920
+<c.traditionalchinese><c.bg_transparent>他叫什麼名字？如果有人問起的話</c.bg_transparent></c.traditionalchinese>
+
+585
+00:38:20,880 --> 00:38:24,160
+<c.traditionalchinese><c.bg_transparent>不，我已經告訴你一個</c.bg_transparent>
+<c.bg_transparent>創傷來源的故事</c.bg_transparent></c.traditionalchinese>
+
+586
+00:38:24,240 --> 00:38:28,120
+<c.traditionalchinese><c.bg_transparent>得腦癌，你不需要知道這些</c.bg_transparent>
+<c.bg_transparent>知道了對你有什麼用處？</c.bg_transparent></c.traditionalchinese>
+
+587
+00:38:28,200 --> 00:38:30,520
+<c.traditionalchinese><c.bg_transparent>這種行為真令人反感</c.bg_transparent>
+<c.bg_transparent>我都說不能問了</c.bg_transparent></c.traditionalchinese>
+
+588
+00:38:33,960 --> 00:38:37,600
+<c.traditionalchinese><c.bg_transparent>-這些事不重要也不有趣</c.bg_transparent>
+<c.bg_transparent>-他們可能還是會問</c.bg_transparent></c.traditionalchinese>
+
+589
+00:38:37,680 --> 00:38:41,000
+<c.traditionalchinese><c.bg_transparent>那只是我另一部分私生活的枝微末節</c.bg_transparent></c.traditionalchinese>
+
+590
+00:38:41,080 --> 00:38:45,400
+<c.traditionalchinese><c.bg_transparent>我很樂意轉移話題，像是說…</c.bg_transparent></c.traditionalchinese>
+
+591
+00:38:46,480 --> 00:38:49,760
+<c.traditionalchinese><c.bg_transparent>“抱歉，這跟我的現況毫不相關”</c.bg_transparent></c.traditionalchinese>
+
+592
+00:38:50,440 --> 00:38:52,440
+<c.traditionalchinese><c.bg_transparent>四兩撥千金就好</c.bg_transparent></c.traditionalchinese>
+
+593
+00:38:53,120 --> 00:38:55,640
+<c.traditionalchinese><c.bg_transparent>話語權在我們手上，不是他們</c.bg_transparent></c.traditionalchinese>
+
+594
+00:39:02,760 --> 00:39:04,080
+<c.traditionalchinese><c.bg_transparent>嗯，我只是…</c.bg_transparent></c.traditionalchinese>
+
+595
+00:39:05,520 --> 00:39:08,680
+<c.traditionalchinese><c.bg_transparent>覺得這恐怕滿足不了那些小報記者</c.bg_transparent></c.traditionalchinese>
+
+596
+00:39:08,760 --> 00:39:11,960
+<c.traditionalchinese><c.bg_transparent>但是…讓我們繼續吧</c.bg_transparent></c.traditionalchinese>
+
+597
+00:39:12,640 --> 00:39:16,400
+<c.traditionalchinese><c.bg_transparent>我實在不想那麼難搞</c.bg_transparent></c.traditionalchinese>
+
+598
+00:39:16,480 --> 00:39:19,000
+<c.traditionalchinese><c.bg_transparent>但這是普拿疼，不是諾洛芬</c.bg_transparent></c.traditionalchinese>
+
+599
+00:39:23,600 --> 00:39:24,560
+<c.traditionalchinese><c.bg_transparent>茱莉</c.bg_transparent></c.traditionalchinese>
+
+600
+00:39:26,200 --> 00:39:29,440
+<c.traditionalchinese><c.bg_transparent>貝兒想走了，她說偏頭痛越來越嚴重</c.bg_transparent></c.traditionalchinese>
+
+601
+00:39:30,240 --> 00:39:31,360
+<c.traditionalchinese><c.bg_transparent>好</c.bg_transparent></c.traditionalchinese>
+
+602
+00:39:54,920 --> 00:39:58,280
+<c.traditionalchinese><c.bg_transparent>（你離目標很近了！）</c.bg_transparent></c.traditionalchinese>
+
+603
+00:39:59,560 --> 00:40:06,480
+<c.traditionalchinese><c.bg_transparent>（我們快達標了，費歐娜！</c.bg_transparent>
+<c.bg_transparent>很快會有更多！親親，貝兒留）</c.bg_transparent></c.traditionalchinese>
+
+604
+00:40:26,960 --> 00:40:28,880
+<c.traditionalchinese><c.bg_transparent>你在腫塊上塗抹什麼？</c.bg_transparent></c.traditionalchinese>
+
+605
+00:40:30,000 --> 00:40:31,080
+<c.traditionalchinese><c.bg_transparent>黑色藥膏</c.bg_transparent></c.traditionalchinese>
+
+606
+00:40:40,360 --> 00:40:42,040
+<c.traditionalchinese><c.bg_transparent>這裡，這裡</c.bg_transparent></c.traditionalchinese>
+
+607
+00:40:42,600 --> 00:40:44,960
+<c.traditionalchinese><c.bg_transparent>還有這裡</c.bg_transparent></c.traditionalchinese>
+
+608
+00:40:46,000 --> 00:40:49,280
+<c.traditionalchinese><c.bg_transparent>五年前長在你右前臂的惡性肉瘤</c.bg_transparent></c.traditionalchinese>
+
+609
+00:40:49,360 --> 00:40:51,960
+<c.traditionalchinese><c.bg_transparent>已經透過淋巴結轉移了</c.bg_transparent></c.traditionalchinese>
+
+610
+00:40:52,040 --> 00:40:55,680
+<c.traditionalchinese><c.bg_transparent>現在你的右肺、肋骨</c.bg_transparent></c.traditionalchinese>
+
+611
+00:40:56,440 --> 00:40:57,560
+<c.traditionalchinese><c.bg_transparent>薦骨…</c.bg_transparent></c.traditionalchinese>
+
+612
+00:40:59,840 --> 00:41:01,880
+<c.traditionalchinese><c.bg_transparent>和左股骨都有癌細胞</c.bg_transparent></c.traditionalchinese>
+
+613
+00:41:02,480 --> 00:41:04,960
+<c.traditionalchinese><c.bg_transparent>好吧，所以現在該怎麼辦？</c.bg_transparent></c.traditionalchinese>
+
+614
+00:41:05,040 --> 00:41:06,080
+<c.traditionalchinese><c.bg_transparent>是要…</c.bg_transparent></c.traditionalchinese>
+
+615
+00:41:07,200 --> 00:41:09,640
+<c.traditionalchinese><c.bg_transparent>做放療或化療嗎？</c.bg_transparent></c.traditionalchinese>
+
+616
+00:41:09,720 --> 00:41:12,080
+<c.traditionalchinese><c.bg_transparent>都聽你的，我們要不要…</c.bg_transparent></c.traditionalchinese>
+
+617
+00:41:13,000 --> 00:41:16,240
+<c.traditionalchinese><c.bg_transparent>有試驗性治療或免疫療法嗎？</c.bg_transparent></c.traditionalchinese>
+
+618
+00:41:16,320 --> 00:41:19,800
+<c.traditionalchinese><c.bg_transparent>很可惜，蜜拉已經不符合</c.bg_transparent>
+<c.bg_transparent>試驗性治療的資格了</c.bg_transparent></c.traditionalchinese>
+
+619
+00:41:22,720 --> 00:41:23,840
+<c.traditionalchinese><c.bg_transparent>為什麼？</c.bg_transparent></c.traditionalchinese>
+
+620
+00:41:23,920 --> 00:41:25,400
+<c.traditionalchinese><c.bg_transparent>她曾經有過機會</c.bg_transparent></c.traditionalchinese>
+
+621
+00:41:25,480 --> 00:41:27,800
+<c.traditionalchinese><c.bg_transparent>但已經失去了，我很遺憾</c.bg_transparent></c.traditionalchinese>
+
+622
+00:41:30,040 --> 00:41:33,440
+<c.traditionalchinese><c.bg_transparent>什麼意思？她不配接受試驗嗎？</c.bg_transparent></c.traditionalchinese>
+
+623
+00:41:33,520 --> 00:41:35,480
+<c.traditionalchinese><c.bg_transparent>她才28歲</c.bg_transparent></c.traditionalchinese>
+
+624
+00:41:35,560 --> 00:41:37,040
+<c.traditionalchinese><c.bg_transparent>病情太嚴重了</c.bg_transparent></c.traditionalchinese>
+
+625
+00:41:40,040 --> 00:41:44,440
+<c.traditionalchinese><c.bg_transparent>我會幫你們轉介一位</c.bg_transparent>
+<c.bg_transparent>優秀的安寧照護專家</c.bg_transparent></c.traditionalchinese>
+
+626
+00:41:44,520 --> 00:41:45,680
+<c.traditionalchinese><c.bg_transparent>以及輔導員</c.bg_transparent></c.traditionalchinese>
+
+627
+00:41:46,280 --> 00:41:48,360
+<c.traditionalchinese><c.bg_transparent>當然你還沒走到那一步，但…</c.bg_transparent></c.traditionalchinese>
+
+628
+00:41:49,080 --> 00:41:51,440
+<c.traditionalchinese><c.bg_transparent>先做準備也許能比較放心</c.bg_transparent></c.traditionalchinese>
+
+629
+00:41:55,680 --> 00:41:57,240
+<c.traditionalchinese><c.bg_transparent>我還有多久才到那個階段？</c.bg_transparent></c.traditionalchinese>
+
+630
+00:41:58,160 --> 00:42:01,320
+<c.traditionalchinese><c.bg_transparent>我估計不到三個月</c.bg_transparent></c.traditionalchinese>
+
+631
+00:42:01,400 --> 00:42:02,960
+<c.traditionalchinese><c.bg_transparent>去你的三個月</c.bg_transparent></c.traditionalchinese>
+
+632
+00:42:03,520 --> 00:42:06,680
+<c.traditionalchinese><c.bg_transparent>我女兒來找你求助，你就要幫助她</c.bg_transparent></c.traditionalchinese>
+
+633
+00:42:07,760 --> 00:42:12,160
+<c.traditionalchinese><c.bg_transparent>你們醫生坐在那裡</c.bg_transparent>
+<c.bg_transparent>一副像上帝的樣子</c.bg_transparent></c.traditionalchinese>
+
+634
+00:42:12,240 --> 00:42:15,760
+<c.traditionalchinese><c.bg_transparent>-那就拿出本事，創造奇蹟</c.bg_transparent>
+<c.bg_transparent>-爸，他做不到</c.bg_transparent></c.traditionalchinese>
+
+635
+00:42:16,360 --> 00:42:17,720
+<c.traditionalchinese><c.bg_transparent>這是什麼意思，你說啊？</c.bg_transparent></c.traditionalchinese>
+
+636
+00:42:17,800 --> 00:42:21,720
+<c.traditionalchinese><c.bg_transparent>因為她當初沒聽你的</c.bg_transparent>
+<c.bg_transparent>所以現在要懲罰她嗎？</c.bg_transparent></c.traditionalchinese>
+
+637
+00:42:21,800 --> 00:42:23,000
+<c.traditionalchinese><c.bg_transparent>喬</c.bg_transparent></c.traditionalchinese>
+
+638
+00:42:24,200 --> 00:42:25,360
+<c.traditionalchinese><c.bg_transparent>這是醫學</c.bg_transparent></c.traditionalchinese>
+
+639
+00:42:26,160 --> 00:42:28,160
+<c.traditionalchinese><c.bg_transparent>不摻入個人偏見</c.bg_transparent></c.traditionalchinese>
+
+640
+00:42:29,160 --> 00:42:33,200
+<c.traditionalchinese><c.bg_transparent>你女兒的癌症擴散了，我很遺憾</c.bg_transparent></c.traditionalchinese>
+
+641
+00:42:33,280 --> 00:42:35,520
+<c.traditionalchinese><c.bg_transparent>但疾病正在吞噬她</c.bg_transparent></c.traditionalchinese>
+
+642
+00:42:38,480 --> 00:42:40,120
+<c.traditionalchinese><c.bg_transparent>對不起</c.bg_transparent></c.traditionalchinese>
+
+643
+00:42:42,640 --> 00:42:44,920
+<c.traditionalchinese><c.bg_transparent>求你救救她</c.bg_transparent></c.traditionalchinese>
+
+644
+00:42:45,480 --> 00:42:48,640
+<c.traditionalchinese><c.bg_transparent>-拜託了，救救她，求求你</c.bg_transparent>
+<c.bg_transparent>-爸</c.bg_transparent></c.traditionalchinese>
+
+645
+00:42:51,000 --> 00:42:52,560
+<c.traditionalchinese><c.bg_transparent>好了</c.bg_transparent></c.traditionalchinese>
+
+646
+00:42:53,360 --> 00:42:56,040
+<c.traditionalchinese><c.bg_transparent>-他媽的想想辦法啊</c.bg_transparent>
+<c.bg_transparent>-他盡力了</c.bg_transparent></c.traditionalchinese>
+
+647
+00:42:59,240 --> 00:43:00,120
+<c.traditionalchinese><c.bg_transparent>沒關係</c.bg_transparent></c.traditionalchinese>
+
+648
+00:43:01,360 --> 00:43:03,400
+<c.traditionalchinese><c.bg_transparent>-沒事的</c.bg_transparent>
+<c.bg_transparent>-對不起，很抱歉</c.bg_transparent></c.traditionalchinese>
+
+649
+00:43:05,440 --> 00:43:06,360
+<c.traditionalchinese><c.bg_transparent>我們走</c.bg_transparent></c.traditionalchinese>
+
+650
+00:43:32,320 --> 00:43:35,480
+<c.traditionalchinese><c.bg_transparent>那麼，把時間快轉到墨爾本</c.bg_transparent></c.traditionalchinese>
+
+651
+00:43:35,560 --> 00:43:37,960
+<c.traditionalchinese><c.bg_transparent>你當時心臟病發</c.bg_transparent></c.traditionalchinese>
+
+652
+00:43:38,040 --> 00:43:41,440
+<c.traditionalchinese><c.bg_transparent>還診斷出癌症，是在哪一家醫院？</c.bg_transparent></c.traditionalchinese>
+
+653
+00:43:44,320 --> 00:43:46,240
+<c.traditionalchinese><c.bg_transparent>-彼得麥卡倫治癌中心</c.bg_transparent>
+<c.bg_transparent>-嗯</c.bg_transparent></c.traditionalchinese>
+
+654
+00:43:46,320 --> 00:43:50,200
+<c.traditionalchinese><c.bg_transparent>你覺得你的腫瘤科醫生會不會樂意</c.bg_transparent></c.traditionalchinese>
+
+655
+00:43:50,800 --> 00:43:53,440
+<c.traditionalchinese><c.bg_transparent>出現在報導上或跟我們開記者會呢？</c.bg_transparent></c.traditionalchinese>
+
+656
+00:43:53,960 --> 00:43:56,680
+<c.traditionalchinese><c.bg_transparent>應該不會，因為我離開他的治療計畫</c.bg_transparent></c.traditionalchinese>
+
+657
+00:43:56,760 --> 00:43:58,240
+<c.traditionalchinese><c.bg_transparent>他很不高興</c.bg_transparent></c.traditionalchinese>
+
+658
+00:43:58,840 --> 00:44:00,480
+<c.traditionalchinese><c.bg_transparent>那些醫生很在乎地盤</c.bg_transparent></c.traditionalchinese>
+
+659
+00:44:03,000 --> 00:44:06,000
+<c.traditionalchinese><c.bg_transparent>這不要緊，我們可以…</c.bg_transparent></c.traditionalchinese>
+
+660
+00:44:06,080 --> 00:44:08,640
+<c.traditionalchinese><c.bg_transparent>我們可以用紙本病歷就好</c.bg_transparent></c.traditionalchinese>
+
+661
+00:44:09,640 --> 00:44:11,840
+<c.traditionalchinese><c.bg_transparent>-你手邊有嗎？</c.bg_transparent>
+<c.bg_transparent>-當然有</c.bg_transparent></c.traditionalchinese>
+
+662
+00:44:12,840 --> 00:44:16,200
+<c.traditionalchinese><c.bg_transparent>有些放在我媽家</c.bg_transparent>
+<c.bg_transparent>可能需要花點時間翻找</c.bg_transparent></c.traditionalchinese>
+
+663
+00:44:18,320 --> 00:44:19,800
+<c.traditionalchinese><c.bg_transparent>她有點囤積傾向</c.bg_transparent></c.traditionalchinese>
+
+664
+00:44:33,800 --> 00:44:36,880
+<c.traditionalchinese><c.bg_transparent>一定會很成功，我保證</c.bg_transparent></c.traditionalchinese>
+
+665
+00:44:43,160 --> 00:44:46,880
+<c.traditionalchinese><c.bg_transparent>預購的業績很出色，眾所期待呢</c.bg_transparent></c.traditionalchinese>
+
+666
+00:44:46,960 --> 00:44:50,040
+<c.traditionalchinese><c.bg_transparent>謝謝，傑瑞米，圍巾很好看</c.bg_transparent></c.traditionalchinese>
+
+667
+00:44:52,120 --> 00:44:54,840
+<c.traditionalchinese><c.bg_transparent>你今天好美，我們要等克萊夫嗎？</c.bg_transparent></c.traditionalchinese>
+
+668
+00:44:54,920 --> 00:44:57,520
+<c.traditionalchinese><c.bg_transparent>不用，他在橄欖球場</c.bg_transparent></c.traditionalchinese>
+
+669
+00:44:57,600 --> 00:45:00,400
+<c.traditionalchinese><c.bg_transparent>你知道的</c.bg_transparent>
+<c.bg_transparent>男生喜歡橄欖球，這樣比較好</c.bg_transparent></c.traditionalchinese>
+
+670
+00:45:00,480 --> 00:45:03,320
+<c.traditionalchinese><c.bg_transparent>他有社恐，我兒子也很愛玩橄欖球</c.bg_transparent></c.traditionalchinese>
+
+671
+00:45:03,920 --> 00:45:06,640
+<c.traditionalchinese><c.bg_transparent>-等我一下</c.bg_transparent>
+<c.bg_transparent>-好，我們在前面碰頭</c.bg_transparent></c.traditionalchinese>
+
+672
+00:45:08,600 --> 00:45:09,640
+<c.traditionalchinese><c.bg_transparent>嘿</c.bg_transparent></c.traditionalchinese>
+
+673
+00:45:11,560 --> 00:45:14,520
+<c.traditionalchinese><c.bg_transparent>我跟你保證</c.bg_transparent>
+<c.bg_transparent>我發誓我要求過他們拿掉我的名字</c.bg_transparent></c.traditionalchinese>
+
+674
+00:45:14,600 --> 00:45:16,280
+<c.traditionalchinese><c.bg_transparent>但他們不肯讓我解約</c.bg_transparent></c.traditionalchinese>
+
+675
+00:45:17,200 --> 00:45:18,640
+<c.traditionalchinese><c.bg_transparent>嘿，聽著</c.bg_transparent></c.traditionalchinese>
+
+676
+00:45:18,720 --> 00:45:20,120
+<c.traditionalchinese><c.bg_transparent>別擔心</c.bg_transparent></c.traditionalchinese>
+
+677
+00:45:20,920 --> 00:45:23,080
+<c.traditionalchinese><c.bg_transparent>我只是來看你撒謊的</c.bg_transparent></c.traditionalchinese>
+
+678
+00:45:23,160 --> 00:45:24,720
+<c.traditionalchinese><c.bg_transparent>對著滿屋子的人</c.bg_transparent></c.traditionalchinese>
+
+679
+00:45:25,440 --> 00:45:28,000
+<c.traditionalchinese><c.bg_transparent>當然也是為了那些開胃小點</c.bg_transparent>
+<c.bg_transparent>超美味的</c.bg_transparent></c.traditionalchinese>
+
+680
+00:45:29,680 --> 00:45:32,240
+<c.traditionalchinese><c.bg_transparent>嘿，哈囉，大家好啊</c.bg_transparent></c.traditionalchinese>
+
+681
+00:45:32,320 --> 00:45:36,280
+<c.traditionalchinese><c.bg_transparent>哈囉，歡迎各位，讓發表會開始吧？</c.bg_transparent></c.traditionalchinese>
+
+682
+00:45:37,320 --> 00:45:39,640
+<c.traditionalchinese><c.bg_transparent>看到大家來到現場真的很開心</c.bg_transparent></c.traditionalchinese>
+
+683
+00:45:40,240 --> 00:45:41,520
+<c.traditionalchinese><c.bg_transparent>我想你</c.bg_transparent></c.traditionalchinese>
+
+684
+00:45:41,600 --> 00:45:44,800
+<c.traditionalchinese><c.bg_transparent>不認識我的來賓，我叫茱莉吉布斯</c.bg_transparent></c.traditionalchinese>
+
+685
+00:45:47,760 --> 00:45:51,520
+<c.traditionalchinese><c.bg_transparent>我是企鵝出版社</c.bg_transparent>
+<c.bg_transparent>紙上生活風格藍燈部門的總監</c.bg_transparent></c.traditionalchinese>
+
+686
+00:45:52,240 --> 00:45:57,080
+<c.traditionalchinese><c.bg_transparent>現在我想歡迎一位年輕女性上台</c.bg_transparent></c.traditionalchinese>
+
+687
+00:45:57,160 --> 00:45:58,720
+<c.traditionalchinese><c.bg_transparent>她是一個媽媽</c.bg_transparent></c.traditionalchinese>
+
+688
+00:45:59,240 --> 00:46:01,320
+<c.traditionalchinese><c.bg_transparent>是癌症倖存者</c.bg_transparent></c.traditionalchinese>
+
+689
+00:46:01,880 --> 00:46:04,640
+<c.traditionalchinese><c.bg_transparent>也是創業家</c.bg_transparent></c.traditionalchinese>
+
+690
+00:46:04,720 --> 00:46:06,360
+<c.traditionalchinese><c.bg_transparent>現在還多了一個作家的身分</c.bg_transparent></c.traditionalchinese>
+
+691
+00:46:07,240 --> 00:46:08,680
+<c.traditionalchinese><c.bg_transparent>貝兒吉柏森</c.bg_transparent></c.traditionalchinese>
+
+692
+00:46:25,400 --> 00:46:27,640
+<c.traditionalchinese><c.bg_transparent>謝謝，非常感謝大家</c.bg_transparent></c.traditionalchinese>
+
+693
+00:46:27,720 --> 00:46:28,880
+<c.traditionalchinese><c.bg_transparent>天啊</c.bg_transparent></c.traditionalchinese>
+
+694
+00:46:29,840 --> 00:46:31,560
+<c.traditionalchinese><c.bg_transparent>真的好榮幸</c.bg_transparent></c.traditionalchinese>
+
+695
+00:46:32,240 --> 00:46:35,320
+<c.traditionalchinese><c.bg_transparent>真不敢相信我站在你們所有人面前</c.bg_transparent></c.traditionalchinese>
+
+696
+00:46:38,360 --> 00:46:41,720
+<c.traditionalchinese><c.bg_transparent>我想要感謝我的媽媽</c.bg_transparent></c.traditionalchinese>
+
+697
+00:46:43,800 --> 00:46:45,360
+<c.traditionalchinese><c.bg_transparent>還有我的伴侶克萊夫</c.bg_transparent></c.traditionalchinese>
+
+698
+00:46:47,080 --> 00:46:48,480
+<c.traditionalchinese><c.bg_transparent>還有我可愛的兒子</c.bg_transparent></c.traditionalchinese>
+
+699
+00:46:50,400 --> 00:46:52,880
+<c.traditionalchinese><c.bg_transparent>當然，還有我的死黨</c.bg_transparent></c.traditionalchinese>
+
+700
+00:46:53,760 --> 00:46:55,200
+<c.traditionalchinese><c.bg_transparent>你總是在背後支持我</c.bg_transparent></c.traditionalchinese>
+
+701
+00:46:55,280 --> 00:46:56,320
+<c.traditionalchinese><c.bg_transparent>你有腦癌嗎？</c.bg_transparent></c.traditionalchinese>
+
+702
+00:46:57,200 --> 00:46:59,400
+<c.traditionalchinese><c.bg_transparent>我沒有把一切視為理所當然</c.bg_transparent></c.traditionalchinese>
+
+703
+00:47:00,000 --> 00:47:02,000
+<c.traditionalchinese><c.bg_transparent>我也要藉這個機會</c.bg_transparent></c.traditionalchinese>
+
+704
+00:47:03,160 --> 00:47:05,080
+<c.traditionalchinese><c.bg_transparent>向我的</c.bg_transparent></c.traditionalchinese>
+
+705
+00:47:05,720 --> 00:47:08,080
+<c.traditionalchinese><c.bg_transparent>朋友與導師致敬</c.bg_transparent></c.traditionalchinese>
+
+706
+00:47:09,600 --> 00:47:10,800
+<c.traditionalchinese><c.bg_transparent>蜜拉</c.bg_transparent></c.traditionalchinese>
+
+707
+00:47:12,600 --> 00:47:14,840
+<c.traditionalchinese><c.bg_transparent>很遺憾她今晚無法出席</c.bg_transparent></c.traditionalchinese>
+
+708
+00:47:14,920 --> 00:47:17,320
+<c.traditionalchinese><c.bg_transparent>我想你們都理解原因</c.bg_transparent></c.traditionalchinese>
+
+709
+00:47:20,040 --> 00:47:22,720
+<c.traditionalchinese><c.bg_transparent>但我知道這能給她帶來安慰，所以…</c.bg_transparent></c.traditionalchinese>
+
+710
+00:47:30,280 --> 00:47:31,400
+<c.traditionalchinese><c.bg_transparent>我並不孤單</c.bg_transparent></c.traditionalchinese>
+
+711
+00:47:32,040 --> 00:47:33,560
+<c.traditionalchinese><c.bg_transparent>我沒有崩潰</c.bg_transparent></c.traditionalchinese>
+
+712
+00:47:34,240 --> 00:47:36,160
+<c.traditionalchinese><c.bg_transparent>我可以招搖</c.bg_transparent></c.traditionalchinese>
+
+713
+00:47:36,240 --> 00:47:38,280
+<c.traditionalchinese><c.bg_transparent>可以彰顯存在感</c.bg_transparent></c.traditionalchinese>
+
+714
+00:47:38,360 --> 00:47:39,840
+<c.traditionalchinese><c.bg_transparent>我比我知道的更堅強</c.bg_transparent></c.traditionalchinese>
+
+715
+00:47:40,600 --> 00:47:43,280
+<c.traditionalchinese><c.bg_transparent>所以看看外面的世界，聽我咆哮吧</c.bg_transparent></c.traditionalchinese>
+
+716
+00:47:44,280 --> 00:47:45,680
+<c.traditionalchinese><c.bg_transparent>我以前常把話吞回去</c.bg_transparent></c.traditionalchinese>
+
+717
+00:47:45,760 --> 00:47:47,600
+<c.traditionalchinese><c.bg_transparent>我以前常把話吞回去</c.bg_transparent></c.traditionalchinese>
+
+718
+00:47:47,680 --> 00:47:49,760
+<c.traditionalchinese><c.bg_transparent>-然後屏住呼吸</c.bg_transparent>
+<c.bg_transparent>-然後屏住呼吸</c.bg_transparent></c.traditionalchinese>
+
+719
+00:47:50,360 --> 00:47:54,520
+<c.traditionalchinese><c.bg_transparent>-害怕製造事端或搞砸氣氛</c.bg_transparent>
+<c.bg_transparent>-害怕製造事端或搞砸氣氛</c.bg_transparent></c.traditionalchinese>
+
+720
+00:47:54,600 --> 00:47:55,720
+<c.traditionalchinese><c.bg_transparent>任由別人把我推向…</c.bg_transparent></c.traditionalchinese>
+
+721
+00:47:55,800 --> 00:47:58,280
+<c.traditionalchinese><c.bg_transparent>任由別人把我推向崩潰邊緣</c.bg_transparent></c.traditionalchinese>
+
+722
+00:47:59,240 --> 00:48:01,760
+<c.traditionalchinese><c.bg_transparent>-我不敢挺身爭取</c.bg_transparent>
+<c.bg_transparent>-我不敢挺身爭取</c.bg_transparent></c.traditionalchinese>
+
+723
+00:48:02,680 --> 00:48:06,280
+<c.traditionalchinese><c.bg_transparent>-所以我摔得一蹋糊塗</c.bg_transparent>
+<c.bg_transparent>-所以我摔得一蹋糊塗</c.bg_transparent></c.traditionalchinese>
+
+724
+00:48:18,120 --> 00:48:23,800
+<c.traditionalchinese><c.bg_transparent>你擊倒我，但我又站起來</c.bg_transparent>
+<c.bg_transparent>準備好，因為我已經忍無可忍</c.bg_transparent></c.traditionalchinese>
+
+725
+00:48:23,880 --> 00:48:26,840
+<c.traditionalchinese><c.bg_transparent>我看穿一切，心如明鏡</c.bg_transparent></c.traditionalchinese>
+
+726
+00:48:27,440 --> 00:48:32,160
+<c.traditionalchinese><c.bg_transparent>我有老虎兇猛的眼神，一個戰士</c.bg_transparent></c.traditionalchinese>
+
+727
+00:48:32,240 --> 00:48:37,880
+<c.traditionalchinese><c.bg_transparent>在烈焰中翩翩起舞，因為我是勝利者</c.bg_transparent></c.traditionalchinese>
+
+728
+00:48:37,960 --> 00:48:42,360
+<c.traditionalchinese><c.bg_transparent>你會聽到我咆哮</c.bg_transparent></c.traditionalchinese>
+
+729
+00:48:42,440 --> 00:48:46,240
+<c.traditionalchinese><c.bg_transparent>比獅吼還震撼</c.bg_transparent></c.traditionalchinese>
+
+730
+00:48:46,320 --> 00:48:48,920
+<c.traditionalchinese><c.bg_transparent>因為我是勝利者</c.bg_transparent></c.traditionalchinese>
+
+731
+00:48:49,560 --> 00:48:54,640
+<c.traditionalchinese><c.bg_transparent>你會聽到我咆哮</c.bg_transparent></c.traditionalchinese>
+
+732
+00:48:57,360 --> 00:48:58,240
+<c.traditionalchinese><c.bg_transparent>好棒！</c.bg_transparent></c.traditionalchinese>
+
+733
+00:49:02,440 --> 00:49:03,440
+<c.traditionalchinese><c.bg_transparent>謝謝</c.bg_transparent></c.traditionalchinese>
+
+734
+00:49:05,400 --> 00:49:06,480
+<c.traditionalchinese><c.bg_transparent>嘿，小蜜</c.bg_transparent></c.traditionalchinese>
+
+735
+00:49:08,000 --> 00:49:10,520
+<c.traditionalchinese><c.bg_transparent>你想要我怎麼辦？直接說吧</c.bg_transparent></c.traditionalchinese>
+
+736
+00:49:10,600 --> 00:49:13,080
+<c.traditionalchinese><c.bg_transparent>告訴你想要我怎麼做，我都會照辦</c.bg_transparent></c.traditionalchinese>
+
+737
+00:49:15,200 --> 00:49:16,600
+<c.traditionalchinese><c.bg_transparent>我要她身敗名裂</c.bg_transparent></c.traditionalchinese>
+
+738
+00:49:17,960 --> 00:49:19,040
+<c.traditionalchinese><c.bg_transparent>好</c.bg_transparent></c.traditionalchinese>
+
+739
+00:49:20,280 --> 00:49:22,360
+<c.traditionalchinese><c.bg_transparent>慢著，我不確定我是不是認真的</c.bg_transparent></c.traditionalchinese>
+
+740
+00:49:22,440 --> 00:49:23,480
+<c.traditionalchinese><c.bg_transparent>等等</c.bg_transparent></c.traditionalchinese>
+
+741
+00:49:27,000 --> 00:49:28,440
+<c.traditionalchinese><c.bg_transparent>阿洛帶了一隻小貓回家</c.bg_transparent></c.traditionalchinese>
+
+742
+00:49:29,120 --> 00:49:30,000
+<c.traditionalchinese><c.bg_transparent>是喔？</c.bg_transparent></c.traditionalchinese>
+
+743
+00:49:31,040 --> 00:49:32,480
+<c.traditionalchinese><c.bg_transparent>牠叫什麼名字？</c.bg_transparent></c.traditionalchinese>
+
+744
+00:49:33,080 --> 00:49:34,240
+<c.traditionalchinese><c.bg_transparent>萊拉福勒</c.bg_transparent></c.traditionalchinese>
+
+745
+00:49:35,440 --> 00:49:38,160
+<c.traditionalchinese><c.bg_transparent>因為牠很漂亮，也有點壞</c.bg_transparent></c.traditionalchinese>
+
+746
+00:49:39,880 --> 00:49:41,520
+<c.traditionalchinese><c.bg_transparent>牠有一張最可愛的臉蛋</c.bg_transparent></c.traditionalchinese>
+
+747
+00:49:45,280 --> 00:49:46,640
+<c.traditionalchinese><c.bg_transparent>你應該過來看看</c.bg_transparent></c.traditionalchinese>
+
+748
+00:49:47,520 --> 00:49:48,400
+<c.traditionalchinese><c.bg_transparent>好</c.bg_transparent></c.traditionalchinese>
+
+749
+00:49:49,680 --> 00:49:50,680
+<c.traditionalchinese><c.bg_transparent>我很樂意</c.bg_transparent></c.traditionalchinese>
+
+750
+00:49:52,720 --> 00:49:53,760
+<c.traditionalchinese><c.bg_transparent>那貝兒呢？</c.bg_transparent></c.traditionalchinese>
+
+751
+00:49:54,400 --> 00:49:57,640
+<c.traditionalchinese><c.bg_transparent>你是說你不要我去找媒體嗎？還是…</c.bg_transparent></c.traditionalchinese>
+
+752
+00:49:59,000 --> 00:50:00,720
+<c.traditionalchinese><c.bg_transparent>你知道自己該怎麼做</c.bg_transparent></c.traditionalchinese>
+
+753
+00:50:04,120 --> 00:50:06,080
+<c.traditionalchinese><c.bg_transparent>我不想再想這件事了</c.bg_transparent></c.traditionalchinese>
+
+754
+00:50:07,760 --> 00:50:09,520
+<c.traditionalchinese><c.bg_transparent>小妞，你感覺怎麼樣？</c.bg_transparent></c.traditionalchinese>
+
+755
+00:50:09,600 --> 00:50:10,520
+<c.traditionalchinese><c.bg_transparent>疲憊</c.bg_transparent></c.traditionalchinese>
+
+756
+00:50:11,800 --> 00:50:13,080
+<c.traditionalchinese><c.bg_transparent>吃了一堆藥</c.bg_transparent></c.traditionalchinese>
+
+757
+00:50:14,520 --> 00:50:15,800
+<c.traditionalchinese><c.bg_transparent>做一些荒謬的夢</c.bg_transparent></c.traditionalchinese>
+
+758
+00:50:16,640 --> 00:50:18,760
+<c.traditionalchinese><c.bg_transparent>我很快就會去探望你</c.bg_transparent></c.traditionalchinese>
+
+759
+00:50:19,840 --> 00:50:20,720
+<c.traditionalchinese><c.bg_transparent>好</c.bg_transparent></c.traditionalchinese>
+
+760
+00:50:25,200 --> 00:50:28,280
+<c.traditionalchinese><c.bg_transparent>我好幾次都試著想訂機票，但…</c.bg_transparent></c.traditionalchinese>
+
+761
+00:50:31,040 --> 00:50:33,200
+<c.traditionalchinese><c.bg_transparent>我不想看到她那個樣子</c.bg_transparent></c.traditionalchinese>
+
+762
+00:50:35,760 --> 00:50:39,120
+<c.traditionalchinese><c.bg_transparent>我知道這很自私</c.bg_transparent>
+<c.bg_transparent>我以後可能會後悔，但…</c.bg_transparent></c.traditionalchinese>
+
+763
+00:50:39,880 --> 00:50:40,720
+<c.traditionalchinese><c.bg_transparent>你很害怕</c.bg_transparent></c.traditionalchinese>
+
+764
+00:50:42,800 --> 00:50:44,480
+<c.traditionalchinese><c.bg_transparent>去你的，你才害怕</c.bg_transparent></c.traditionalchinese>
+
+765
+00:50:47,160 --> 00:50:48,440
+<c.traditionalchinese><c.bg_transparent>我嚇得屁滾尿流</c.bg_transparent></c.traditionalchinese>
+
+766
+00:51:08,000 --> 00:51:08,840
+<c.traditionalchinese><c.bg_transparent>老兄！</c.bg_transparent></c.traditionalchinese>
+
+767
+00:51:10,400 --> 00:51:11,240
+<c.traditionalchinese><c.bg_transparent>我要進去了</c.bg_transparent></c.traditionalchinese>
+
+768
+00:51:25,960 --> 00:51:28,320
+<c.traditionalchinese><c.bg_transparent>-是露西傳的？</c.bg_transparent>
+<c.bg_transparent>-對</c.bg_transparent></c.traditionalchinese>
+
+769
+00:51:28,400 --> 00:51:29,640
+<c.traditionalchinese><c.bg_transparent>她什麼時候回來？</c.bg_transparent></c.traditionalchinese>
+
+770
+00:51:30,440 --> 00:51:31,400
+<c.traditionalchinese><c.bg_transparent>不知道</c.bg_transparent></c.traditionalchinese>
+
+771
+00:51:32,840 --> 00:51:34,040
+<c.traditionalchinese><c.bg_transparent>問IG大神吧</c.bg_transparent></c.traditionalchinese>
+
+772
+00:51:38,000 --> 00:51:40,320
+<c.traditionalchinese><c.bg_transparent>看起來氣色不錯</c.bg_transparent></c.traditionalchinese>
+
+773
+00:51:40,400 --> 00:51:41,480
+<c.traditionalchinese><c.bg_transparent>小羔羊</c.bg_transparent></c.traditionalchinese>
+
+774
+00:51:43,080 --> 00:51:44,040
+<c.traditionalchinese><c.bg_transparent>我很喜歡小羔羊</c.bg_transparent></c.traditionalchinese>
+
+775
+00:51:48,480 --> 00:51:50,160
+<c.traditionalchinese><c.bg_transparent>聽著，老兄</c.bg_transparent></c.traditionalchinese>
+
+776
+00:51:51,360 --> 00:51:55,360
+<c.traditionalchinese><c.bg_transparent>我不由地注意到</c.bg_transparent>
+<c.bg_transparent>你已經好幾星期沒提交報導了</c.bg_transparent></c.traditionalchinese>
+
+777
+00:51:55,440 --> 00:51:57,960
+<c.traditionalchinese><c.bg_transparent>在公司碰到那群老大</c.bg_transparent>
+<c.bg_transparent>氣氛越來越尷尬了</c.bg_transparent></c.traditionalchinese>
+
+778
+00:51:58,040 --> 00:52:00,760
+<c.traditionalchinese><c.bg_transparent>我昨天提交了，兩次</c.bg_transparent></c.traditionalchinese>
+
+779
+00:52:01,480 --> 00:52:03,720
+<c.traditionalchinese><c.bg_transparent>是一篇好報導，我應該說清楚的</c.bg_transparent></c.traditionalchinese>
+
+780
+00:52:05,160 --> 00:52:08,440
+<c.traditionalchinese><c.bg_transparent>-我可能要請假一段時間</c.bg_transparent>
+<c.bg_transparent>-嗯，這個主意不錯</c.bg_transparent></c.traditionalchinese>
+
+781
+00:52:11,480 --> 00:52:14,960
+<c.traditionalchinese><c.bg_transparent>我能告訴你</c.bg_transparent>
+<c.bg_transparent>我為你帶來多貼心的禮物嗎？</c.bg_transparent></c.traditionalchinese>
+
+782
+00:52:15,720 --> 00:52:17,200
+<c.traditionalchinese><c.bg_transparent>讓我配蛋吃的辣醬嗎？</c.bg_transparent></c.traditionalchinese>
+
+783
+00:52:17,280 --> 00:52:20,240
+<c.traditionalchinese><c.bg_transparent>我有帶辣醬來讓你配蛋吃</c.bg_transparent>
+<c.bg_transparent>這倒是沒錯</c.bg_transparent></c.traditionalchinese>
+
+784
+00:52:20,320 --> 00:52:22,720
+<c.traditionalchinese><c.bg_transparent>但還有…等一下</c.bg_transparent></c.traditionalchinese>
+
+785
+00:52:22,800 --> 00:52:24,960
+<c.traditionalchinese><c.bg_transparent>我之前在看這些，然後…</c.bg_transparent></c.traditionalchinese>
+
+786
+00:52:26,360 --> 00:52:28,320
+<c.traditionalchinese><c.bg_transparent>-砂鍋菜</c.bg_transparent>
+<c.bg_transparent>-砂鍋菜？</c.bg_transparent></c.traditionalchinese>
+
+787
+00:52:28,400 --> 00:52:31,640
+<c.traditionalchinese><c.bg_transparent>砂鍋菜，香奈爾說</c.bg_transparent>
+<c.bg_transparent>貝兒沒有把冷凍食物</c.bg_transparent></c.traditionalchinese>
+
+788
+00:52:31,720 --> 00:52:34,440
+<c.traditionalchinese><c.bg_transparent>轉交給那個罹癌的可憐小傢伙</c.bg_transparent>
+<c.bg_transparent>對吧？</c.bg_transparent></c.traditionalchinese>
+
+789
+00:52:35,080 --> 00:52:39,200
+<c.traditionalchinese><c.bg_transparent>你覺得她會把冷冰冰的實體鈔票</c.bg_transparent>
+<c.bg_transparent>捐給不知名的慈善機構嗎？</c.bg_transparent></c.traditionalchinese>
+
+790
+00:52:41,080 --> 00:52:42,400
+<c.traditionalchinese><c.bg_transparent>慈善詐騙</c.bg_transparent></c.traditionalchinese>
+
+791
+00:52:43,080 --> 00:52:45,000
+<c.traditionalchinese><c.bg_transparent>這於法有據</c.bg_transparent></c.traditionalchinese>
+
+792
+00:52:45,520 --> 00:52:47,440
+<c.traditionalchinese><c.bg_transparent>這點可以合法地大搞特搞</c.bg_transparent></c.traditionalchinese>
+
+793
+00:52:47,520 --> 00:52:50,400
+<c.traditionalchinese><c.bg_transparent>健康廚坊應用程式本月的全數營收</c.bg_transparent></c.traditionalchinese>
+
+794
+00:52:50,480 --> 00:52:52,920
+<c.traditionalchinese><c.bg_transparent>將會捐給杭特進行續命的治療</c.bg_transparent></c.traditionalchinese>
+
+795
+00:52:53,600 --> 00:52:55,600
+<c.traditionalchinese><c.bg_transparent>主題標籤，腦癌好朋友</c.bg_transparent></c.traditionalchinese>
+
+796
+00:52:56,440 --> 00:52:58,040
+<c.traditionalchinese><c.bg_transparent>全數銷售額</c.bg_transparent></c.traditionalchinese>
+
+797
+00:52:59,720 --> 00:53:02,760
+<c.traditionalchinese><c.bg_transparent>-那個月沒有計入經常性費用，貝兒</c.bg_transparent>
+<c.bg_transparent>-好大方</c.bg_transparent></c.traditionalchinese>
+
+798
+00:53:02,840 --> 00:53:03,880
+<c.traditionalchinese><c.bg_transparent>真是天使來著</c.bg_transparent></c.traditionalchinese>
+
+799
+00:53:05,440 --> 00:53:08,480
+<c.traditionalchinese><c.bg_transparent>-我們沒提到她的健康狀況</c.bg_transparent>
+<c.bg_transparent>-完全沒有，不是誹謗</c.bg_transparent></c.traditionalchinese>
+
+800
+00:53:09,840 --> 00:53:11,840
+<c.traditionalchinese><c.bg_transparent>我真行，抱抱我</c.bg_transparent></c.traditionalchinese>
+
+801
+00:53:15,480 --> 00:53:16,560
+<c.traditionalchinese><c.bg_transparent>慈善詐騙</c.bg_transparent></c.traditionalchinese>
+
+802
+00:53:17,080 --> 00:53:18,400
+<c.traditionalchinese><c.bg_transparent>我的鑰匙呢？</c.bg_transparent></c.traditionalchinese>
+
+803
+00:53:18,480 --> 00:53:22,160
+<c.traditionalchinese><c.bg_transparent>-我把這些打包</c.bg_transparent>
+<c.bg_transparent>-對，給我一個地址</c.bg_transparent></c.traditionalchinese>
+
+804
+00:53:38,600 --> 00:53:41,840
+<c.traditionalchinese><c.bg_transparent>-你想知道貝兒什麼事？</c.bg_transparent>
+<c.bg_transparent>-你認識她多久了？</c.bg_transparent></c.traditionalchinese>
+
+805
+00:53:41,920 --> 00:53:45,120
+<c.traditionalchinese><c.bg_transparent>我們在醫院認識的，大概是一年前</c.bg_transparent></c.traditionalchinese>
+
+806
+00:53:45,200 --> 00:53:46,680
+<c.traditionalchinese><c.bg_transparent>你們從那時候開始合作嗎？</c.bg_transparent></c.traditionalchinese>
+
+807
+00:53:46,760 --> 00:53:48,440
+<c.traditionalchinese><c.bg_transparent>我不會說我們跟她合作</c.bg_transparent></c.traditionalchinese>
+
+808
+00:53:48,520 --> 00:53:50,760
+<c.traditionalchinese><c.bg_transparent>她主動提議要替杭特籌募手術費</c.bg_transparent></c.traditionalchinese>
+
+809
+00:53:50,840 --> 00:53:52,280
+<c.traditionalchinese><c.bg_transparent>她有一個網路平台</c.bg_transparent></c.traditionalchinese>
+
+810
+00:53:52,360 --> 00:53:54,840
+<c.traditionalchinese><c.bg_transparent>-很慷慨</c.bg_transparent>
+<c.bg_transparent>-是啊，太不可思議了</c.bg_transparent></c.traditionalchinese>
+
+811
+00:53:55,360 --> 00:53:57,920
+<c.traditionalchinese><c.bg_transparent>抱歉，我不懂，這是為了什麼？</c.bg_transparent></c.traditionalchinese>
+
+812
+00:54:00,120 --> 00:54:02,080
+<c.traditionalchinese><c.bg_transparent>哈里斯，還給我！</c.bg_transparent></c.traditionalchinese>
+
+813
+00:54:02,160 --> 00:54:05,240
+<c.traditionalchinese><c.bg_transparent>哈里斯，站住！哈里斯，還給我！</c.bg_transparent></c.traditionalchinese>
+
+814
+00:54:06,480 --> 00:54:07,880
+<c.traditionalchinese><c.bg_transparent>還給我！</c.bg_transparent></c.traditionalchinese>
+
+815
+00:54:08,520 --> 00:54:11,160
+<c.traditionalchinese><c.bg_transparent>好了，走吧，該洗澡了</c.bg_transparent></c.traditionalchinese>
+
+816
+00:54:11,240 --> 00:54:12,160
+<c.traditionalchinese><c.bg_transparent>你慢慢看</c.bg_transparent></c.traditionalchinese>
+
+817
+00:54:12,240 --> 00:54:15,480
+<c.traditionalchinese><c.bg_transparent>-他老是拿我的東西</c.bg_transparent>
+<c.bg_transparent>-好，別激動，走吧</c.bg_transparent></c.traditionalchinese>
+
+818
+00:54:15,560 --> 00:54:18,360
+<c.traditionalchinese><c.bg_transparent>有個神經外科醫生泰迪麥可醫生</c.bg_transparent>
+<c.bg_transparent>你聽說過他嗎？</c.bg_transparent></c.traditionalchinese>
+
+819
+00:54:18,440 --> 00:54:19,360
+<c.traditionalchinese><c.bg_transparent>-沒有</c.bg_transparent>
+<c.bg_transparent>-他有上電視</c.bg_transparent></c.traditionalchinese>
+
+820
+00:54:20,080 --> 00:54:23,040
+<c.traditionalchinese><c.bg_transparent>他收治其他醫生都不收的病患</c.bg_transparent>
+<c.bg_transparent>但要付出代價</c.bg_transparent></c.traditionalchinese>
+
+821
+00:54:23,120 --> 00:54:25,800
+<c.traditionalchinese><c.bg_transparent>手術前先收六萬塊訂金</c.bg_transparent>
+<c.bg_transparent>另一半手術後再付</c.bg_transparent></c.traditionalchinese>
+
+822
+00:54:25,880 --> 00:54:26,760
+<c.traditionalchinese><c.bg_transparent>好貴</c.bg_transparent></c.traditionalchinese>
+
+823
+00:54:28,360 --> 00:54:29,720
+<c.traditionalchinese><c.bg_transparent>簡直是天價</c.bg_transparent></c.traditionalchinese>
+
+824
+00:54:30,560 --> 00:54:33,960
+<c.traditionalchinese><c.bg_transparent>我沒工作，全職照顧他</c.bg_transparent>
+<c.bg_transparent>醫院的約診…</c.bg_transparent></c.traditionalchinese>
+
+825
+00:54:34,040 --> 00:54:36,160
+<c.traditionalchinese><c.bg_transparent>我不知道你聽說過貝兒什麼傳言</c.bg_transparent></c.traditionalchinese>
+
+826
+00:54:36,920 --> 00:54:38,720
+<c.traditionalchinese><c.bg_transparent>但那些完全不是事實</c.bg_transparent></c.traditionalchinese>
+
+827
+00:54:39,440 --> 00:54:42,120
+<c.traditionalchinese><c.bg_transparent>要不是有她幫忙替杭特募款，我們…</c.bg_transparent></c.traditionalchinese>
+
+828
+00:54:45,640 --> 00:54:46,720
+<c.traditionalchinese><c.bg_transparent>那筆錢…</c.bg_transparent></c.traditionalchinese>
+
+829
+00:54:48,640 --> 00:54:49,840
+<c.traditionalchinese><c.bg_transparent>在你的戶頭裡嗎？</c.bg_transparent></c.traditionalchinese>
+
+830
+00:54:49,920 --> 00:54:51,600
+<c.traditionalchinese><c.bg_transparent>沒有，因為我們還沒預約手術</c.bg_transparent></c.traditionalchinese>
+
+831
+00:54:53,360 --> 00:54:55,720
+<c.traditionalchinese><c.bg_transparent>我們已經談好那筆錢的用途，所以…</c.bg_transparent></c.traditionalchinese>
+
+832
+00:55:00,400 --> 00:55:01,280
+<c.traditionalchinese><c.bg_transparent>不會吧</c.bg_transparent></c.traditionalchinese>
+
+833
+00:55:01,800 --> 00:55:03,880
+<c.traditionalchinese><c.bg_transparent>貝兒沒付給那家人半毛錢</c.bg_transparent></c.traditionalchinese>
+
+834
+00:55:04,480 --> 00:55:05,640
+<c.traditionalchinese><c.bg_transparent>天殺的</c.bg_transparent></c.traditionalchinese>
+
+835
+00:55:05,720 --> 00:55:07,920
+<c.traditionalchinese><c.bg_transparent>我剛問過消費者事務署</c.bg_transparent></c.traditionalchinese>
+
+836
+00:55:08,000 --> 00:55:10,200
+<c.traditionalchinese><c.bg_transparent>健康廚坊不是註冊的募款單位</c.bg_transparent></c.traditionalchinese>
+
+837
+00:55:10,800 --> 00:55:12,200
+<c.traditionalchinese><c.bg_transparent>她可能面臨刑事指控</c.bg_transparent></c.traditionalchinese>
+
+838
+00:55:13,240 --> 00:55:16,240
+<c.traditionalchinese><c.bg_transparent>-我們辦公室見</c.bg_transparent>
+<c.bg_transparent>-越來越刺激了</c.bg_transparent></c.traditionalchinese>
+
+839
+00:55:21,640 --> 00:55:23,840
+<c.traditionalchinese><c.bg_transparent>（今天有簽書會！《健康廚坊》）</c.bg_transparent></c.traditionalchinese>
+
+840
+00:56:25,920 --> 00:56:27,080
+<c.traditionalchinese><c.bg_transparent>（貝兒）</c.bg_transparent></c.traditionalchinese>
+
+841
+00:56:52,640 --> 00:56:55,280
+<c.traditionalchinese><c.bg_transparent>在我的抗癌之旅中，這是第一次</c.bg_transparent></c.traditionalchinese>
+
+842
+00:56:56,560 --> 00:56:57,920
+<c.traditionalchinese><c.bg_transparent>我真的很不舒服</c.bg_transparent></c.traditionalchinese>
+
+843
+00:56:59,840 --> 00:57:01,200
+<c.traditionalchinese><c.bg_transparent>如果有選擇的話</c.bg_transparent></c.traditionalchinese>
+
+844
+00:57:01,800 --> 00:57:04,600
+<c.traditionalchinese><c.bg_transparent>我會回歸傳統醫療</c.bg_transparent></c.traditionalchinese>
+
+845
+00:57:06,080 --> 00:57:07,560
+<c.traditionalchinese><c.bg_transparent>可惜事與願違</c.bg_transparent></c.traditionalchinese>
+
+846
+00:57:08,840 --> 00:57:10,840
+<c.traditionalchinese><c.bg_transparent>當我被診斷出罹癌時</c.bg_transparent></c.traditionalchinese>
+
+847
+00:57:11,560 --> 00:57:13,200
+<c.traditionalchinese><c.bg_transparent>我認為是我的錯</c.bg_transparent></c.traditionalchinese>
+
+848
+00:57:14,480 --> 00:57:15,320
+<c.traditionalchinese><c.bg_transparent>但不是</c.bg_transparent></c.traditionalchinese>
+
+849
+00:57:16,480 --> 00:57:19,040
+<c.traditionalchinese><c.bg_transparent>我相信要靠自己的力量治癒自己</c.bg_transparent></c.traditionalchinese>
+
+850
+00:57:20,800 --> 00:57:21,920
+<c.traditionalchinese><c.bg_transparent>但並不是</c.bg_transparent></c.traditionalchinese>
+
+851
+00:57:23,240 --> 00:57:25,880
+<c.traditionalchinese><c.bg_transparent>我以為我可以透過飲食與聽從直覺</c.bg_transparent></c.traditionalchinese>
+
+852
+00:57:25,960 --> 00:57:28,160
+<c.traditionalchinese><c.bg_transparent>變得全然健康</c.bg_transparent></c.traditionalchinese>
+
+853
+00:57:29,960 --> 00:57:30,920
+<c.traditionalchinese><c.bg_transparent>但我錯了</c.bg_transparent></c.traditionalchinese>
+
+854
+00:57:31,920 --> 00:57:34,480
+<c.traditionalchinese><c.bg_transparent>我很抱歉欺騙了你們</c.bg_transparent></c.traditionalchinese>
+
+855
+00:57:35,760 --> 00:57:37,760
+<c.traditionalchinese><c.bg_transparent>我對自己不誠實</c.bg_transparent></c.traditionalchinese>
+
+856
+00:57:49,480 --> 00:57:51,600
+<c.traditionalchinese><c.bg_transparent>-你會熬過去的，小蜜！</c.bg_transparent>
+<c.bg_transparent>-你害死你媽</c.bg_transparent></c.traditionalchinese>
+
+857
+00:57:51,680 --> 00:57:54,400
+<c.traditionalchinese><c.bg_transparent>-有多少人因為你而死？</c.bg_transparent>
+<c.bg_transparent>-保持堅強</c.bg_transparent></c.traditionalchinese>
+
+858
+00:57:54,480 --> 00:57:57,720
+<c.traditionalchinese><c.bg_transparent>請盡快聯絡我</c.bg_transparent>
+<c.bg_transparent>我覺得你讓負能量入侵了</c.bg_transparent></c.traditionalchinese>
+
+859
+00:57:57,800 --> 00:57:59,320
+<c.traditionalchinese><c.bg_transparent>-愛你，蜜拉</c.bg_transparent>
+<c.bg_transparent>-繼續奮戰</c.bg_transparent></c.traditionalchinese>
+
+860
+00:57:59,400 --> 00:58:01,160
+<c.traditionalchinese><c.bg_transparent>我在印尼有個治療師…</c.bg_transparent></c.traditionalchinese>
+
+861
+00:58:19,400 --> 00:58:20,320
+<c.traditionalchinese><c.bg_transparent>有人在嗎？</c.bg_transparent></c.traditionalchinese>
+
+862
+00:58:20,840 --> 00:58:21,800
+<c.traditionalchinese><c.bg_transparent>我到了</c.bg_transparent></c.traditionalchinese>
+
+863
+00:58:22,640 --> 00:58:24,480
+<c.traditionalchinese><c.bg_transparent>糟糕</c.bg_transparent></c.traditionalchinese>
+
+864
+00:58:24,560 --> 00:58:25,680
+<c.traditionalchinese><c.bg_transparent>你們在洗澡</c.bg_transparent></c.traditionalchinese>
+
+865
+00:58:27,080 --> 00:58:28,680
+<c.traditionalchinese><c.bg_transparent>要我加入嗎？</c.bg_transparent></c.traditionalchinese>
+
+866
+00:58:30,040 --> 00:58:31,040
+<c.traditionalchinese><c.bg_transparent>你可以試試看</c.bg_transparent></c.traditionalchinese>
+
+867
+00:58:35,320 --> 00:58:36,640
+<c.traditionalchinese><c.bg_transparent>阿洛和喬</c.bg_transparent></c.traditionalchinese>
+
+868
+00:58:37,960 --> 00:58:39,800
+<c.traditionalchinese><c.bg_transparent>一段亙古的愛情故事</c.bg_transparent></c.traditionalchinese>
+
+869
+00:58:56,240 --> 00:58:58,240
+<c.traditionalchinese><c.bg_transparent>你還記得一年級的時候嗎？</c.bg_transparent></c.traditionalchinese>
+
+870
+00:59:00,160 --> 00:59:01,720
+<c.traditionalchinese><c.bg_transparent>有一天我尿褲子</c.bg_transparent></c.traditionalchinese>
+
+871
+00:59:02,680 --> 00:59:04,880
+<c.traditionalchinese><c.bg_transparent>把你的日記作業本都弄濕了</c.bg_transparent></c.traditionalchinese>
+
+872
+00:59:05,520 --> 00:59:07,520
+<c.traditionalchinese><c.bg_transparent>天啊，同學都在嘲笑我</c.bg_transparent></c.traditionalchinese>
+
+873
+00:59:08,040 --> 00:59:09,600
+<c.traditionalchinese><c.bg_transparent>你把他們臭罵一頓</c.bg_transparent></c.traditionalchinese>
+
+874
+00:59:10,480 --> 00:59:11,760
+<c.traditionalchinese><c.bg_transparent>你天不怕地不怕</c.bg_transparent></c.traditionalchinese>
+
+875
+00:59:14,280 --> 00:59:15,200
+<c.traditionalchinese><c.bg_transparent>才五歲</c.bg_transparent></c.traditionalchinese>
+
+876
+00:59:17,640 --> 00:59:18,680
+<c.traditionalchinese><c.bg_transparent>你還現在還是一樣</c.bg_transparent></c.traditionalchinese>
+
+877
+00:59:31,120 --> 00:59:32,800
+<c.traditionalchinese><c.bg_transparent>我好害怕</c.bg_transparent></c.traditionalchinese>
+
+878
+00:59:40,760 --> 00:59:42,680
+<c.traditionalchinese><c.bg_transparent>我好害怕</c.bg_transparent></c.traditionalchinese>
+
+879
+00:59:46,960 --> 00:59:47,960
+<c.traditionalchinese><c.bg_transparent>親愛的</c.bg_transparent></c.traditionalchinese>
+
+880
+01:00:07,920 --> 01:00:08,760
+<c.traditionalchinese><c.bg_transparent>嘿</c.bg_transparent></c.traditionalchinese>
+
+881
+01:00:10,800 --> 01:00:13,840
+<c.traditionalchinese><c.bg_transparent>-你看到哪裡了？</c.bg_transparent>
+<c.bg_transparent>-折起來那一頁</c.bg_transparent></c.traditionalchinese>
+
+882
+01:00:15,440 --> 01:00:18,600
+<c.traditionalchinese><c.bg_transparent>“潔西卡韋克菲爾德</c.bg_transparent>
+<c.bg_transparent>想到一個絕妙點子</c.bg_transparent></c.traditionalchinese>
+
+883
+01:00:19,560 --> 01:00:21,360
+<c.traditionalchinese><c.bg_transparent>從潔西卡有印象開始</c.bg_transparent></c.traditionalchinese>
+
+884
+01:00:21,440 --> 01:00:24,640
+<c.traditionalchinese><c.bg_transparent>說到送禮物</c.bg_transparent>
+<c.bg_transparent>伊莉莎白總是更勝她一籌</c.bg_transparent></c.traditionalchinese>
+
+885
+01:00:26,200 --> 01:00:29,000
+<c.traditionalchinese><c.bg_transparent>不是潔西卡沒有好點子</c.bg_transparent></c.traditionalchinese>
+
+886
+01:00:29,640 --> 01:00:32,000
+<c.traditionalchinese><c.bg_transparent>只是伊莉莎白很難以匹敵”</c.bg_transparent></c.traditionalchinese>
+
+887
+01:00:33,200 --> 01:00:37,080
+<c.traditionalchinese><c.bg_transparent>“‘小莉做任何事都無可挑剔’</c.bg_transparent>
+<c.bg_transparent>潔西卡想著，嘆了口氣”</c.bg_transparent></c.traditionalchinese>
+
+888
+01:00:37,800 --> 01:00:39,720
+<c.traditionalchinese><c.bg_transparent>“而且她有條不紊…”</c.bg_transparent></c.traditionalchinese>
+
+889
+01:00:42,600 --> 01:00:43,880
+<c.traditionalchinese><c.bg_transparent>吉柏森小姐</c.bg_transparent></c.traditionalchinese>
+
+890
+01:00:43,960 --> 01:00:46,760
+<c.traditionalchinese><c.bg_transparent>請查看以下21個問題</c.bg_transparent></c.traditionalchinese>
+
+891
+01:00:47,480 --> 01:00:49,960
+<c.traditionalchinese><c.bg_transparent>我們需要你明天下午兩點前回覆</c.bg_transparent></c.traditionalchinese>
+
+892
+01:00:50,960 --> 01:00:56,160
+<c.traditionalchinese><c.bg_transparent>第一，你說公司的絕大多數營收</c.bg_transparent>
+<c.bg_transparent>都捐給慈善機構</c.bg_transparent></c.traditionalchinese>
+
+893
+01:00:57,240 --> 01:01:01,640
+<c.traditionalchinese><c.bg_transparent>請問哪幾家慈善機構</c.bg_transparent>
+<c.bg_transparent>得到健康廚坊的支持？</c.bg_transparent></c.traditionalchinese>
+
+894
+01:01:02,960 --> 01:01:06,160
+<c.traditionalchinese><c.bg_transparent>第二，你能提供公益捐贈收據嗎？</c.bg_transparent></c.traditionalchinese>
+
+895
+01:01:06,240 --> 01:01:08,240
+<c.traditionalchinese><c.bg_transparent>第三，為什麼你沒有把慈善捐款</c.bg_transparent></c.traditionalchinese>
+
+896
+01:01:08,320 --> 01:01:10,840
+<c.traditionalchinese><c.bg_transparent>轉交給你公開承諾支持的</c.bg_transparent></c.traditionalchinese>
+
+897
+01:01:10,920 --> 01:01:12,600
+<c.traditionalchinese><c.bg_transparent>尋求庇護者資源中心</c.bg_transparent></c.traditionalchinese>
+
+898
+01:01:12,680 --> 01:01:15,920
+<c.traditionalchinese><c.bg_transparent>生產裝備基金會、獨立女孩基金會</c.bg_transparent></c.traditionalchinese>
+
+899
+01:01:16,000 --> 01:01:17,000
+<c.traditionalchinese><c.bg_transparent>2H計畫…</c.bg_transparent></c.traditionalchinese>
+
+900
+01:01:17,080 --> 01:01:19,000
+<c.traditionalchinese><c.bg_transparent>-克羅斯一家</c.bg_transparent>
+<c.bg_transparent>-克羅斯一家</c.bg_transparent></c.traditionalchinese>
+
+901
+01:01:19,600 --> 01:01:21,920
+<c.traditionalchinese><c.bg_transparent>布米塞哈特基金會</c.bg_transparent></c.traditionalchinese>
+
+902
+01:01:22,000 --> 01:01:23,160
+<c.traditionalchinese><c.bg_transparent>還有舒瓦茲一家</c.bg_transparent></c.traditionalchinese>
+
+903
+01:01:23,720 --> 01:01:24,560
+<c.traditionalchinese><c.bg_transparent>第四</c.bg_transparent></c.traditionalchinese>
+
+904
+01:01:25,160 --> 01:01:27,800
+<c.traditionalchinese><c.bg_transparent>如果這些款項沒有交給這些機構</c.bg_transparent></c.traditionalchinese>
+
+905
+01:01:27,880 --> 01:01:31,080
+<c.traditionalchinese><c.bg_transparent>那這些錢的用途是什麼？</c.bg_transparent></c.traditionalchinese>
+
+906
+01:01:31,160 --> 01:01:34,200
+<c.traditionalchinese><c.bg_transparent>第五，能不能很快澄清一下</c.bg_transparent></c.traditionalchinese>
+
+907
+01:01:34,280 --> 01:01:37,680
+<c.traditionalchinese><c.bg_transparent>你在哪一家醫療機構確診罹癌？</c.bg_transparent></c.traditionalchinese>
+
+908
+01:01:38,800 --> 01:01:41,880
+<c.traditionalchinese><c.bg_transparent>第六，診斷出的是哪一期？</c.bg_transparent></c.traditionalchinese>
+
+909
+01:01:42,400 --> 01:01:45,920
+<c.traditionalchinese><c.bg_transparent>第七，確切的預後為何？</c.bg_transparent></c.traditionalchinese>
+
+910
+01:01:46,000 --> 01:01:49,480
+<c.traditionalchinese><c.bg_transparent>第八，你有接受化療和放療嗎？</c.bg_transparent></c.traditionalchinese>
+
+911
+01:01:49,560 --> 01:01:51,800
+<c.traditionalchinese><c.bg_transparent>第九，在哪一家機構接受治療？</c.bg_transparent></c.traditionalchinese>
+
+912
+01:01:51,880 --> 01:01:55,920
+<c.traditionalchinese><c.bg_transparent>第十，你目前的癌症病況如何？</c.bg_transparent></c.traditionalchinese>
+
+913
+01:01:56,000 --> 01:01:57,720
+<c.traditionalchinese><c.bg_transparent>第十一，你幾歲？</c.bg_transparent></c.traditionalchinese>
+
+914
+01:01:57,800 --> 01:02:00,760
+<c.traditionalchinese><c.bg_transparent>第十二，能否確認你的全名，因為…</c.bg_transparent></c.traditionalchinese>
+
+915
+01:02:00,840 --> 01:02:05,240
+<c.traditionalchinese><c.bg_transparent>第十三，你能提供</c.bg_transparent>
+<c.bg_transparent>最後一次看診醫院的資訊嗎？</c.bg_transparent></c.traditionalchinese>
+
+916
+01:02:05,320 --> 01:02:07,520
+<c.traditionalchinese><c.bg_transparent>第十六，提供醫生的名字…</c.bg_transparent></c.traditionalchinese>
+
+917
+01:02:07,600 --> 01:02:08,520
+<c.traditionalchinese><c.bg_transparent>你正在做…</c.bg_transparent></c.traditionalchinese>
+
+918
+01:02:08,600 --> 01:02:10,320
+<c.traditionalchinese><c.bg_transparent>-十八</c.bg_transparent>
+<c.bg_transparent>-…哪些治療…</c.bg_transparent></c.traditionalchinese>
+
+919
+01:02:10,400 --> 01:02:13,320
+<c.traditionalchinese><c.bg_transparent>如果你捐款給其他組織…</c.bg_transparent></c.traditionalchinese>
+
+920
+01:02:13,400 --> 01:02:16,600
+<c.traditionalchinese><c.bg_transparent>可以給我們一份你的病歷影本嗎？</c.bg_transparent></c.traditionalchinese>
+
+921
+01:02:16,680 --> 01:02:19,240
+<c.traditionalchinese><c.bg_transparent>否則，能否准許我們</c.bg_transparent></c.traditionalchinese>
+
+922
+01:02:19,320 --> 01:02:21,160
+<c.traditionalchinese><c.bg_transparent>跟你目前的醫生聯絡</c.bg_transparent></c.traditionalchinese>
+
+923
+01:02:21,240 --> 01:02:23,920
+<c.traditionalchinese><c.bg_transparent>以核實你的健康狀態？</c.bg_transparent></c.traditionalchinese>
+
+924
+01:02:24,640 --> 01:02:26,440
+<c.traditionalchinese><c.bg_transparent>期待收到你的回音</c.bg_transparent></c.traditionalchinese>
+
+925
+01:02:27,600 --> 01:02:28,760
+<c.traditionalchinese><c.bg_transparent>砰！</c.bg_transparent></c.traditionalchinese>
+
+926
+01:02:28,840 --> 01:02:30,960
+<c.traditionalchinese><c.bg_transparent>幹！</c.bg_transparent></c.traditionalchinese>
+
+927
+01:03:25,120 --> 01:03:30,120
+<c.traditionalchinese><c.bg_transparent>字幕翻譯：莊雅婷</c.bg_transparent></c.traditionalchinese>
+
